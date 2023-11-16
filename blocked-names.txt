@@ -19135,7 +19135,6 @@
 *.jscache.com
 *.jscloud.net
 *.jscrambler.com
-*.jsdelivr.net
 *.jsecoin.com
 *.jsingles.com
 *.jsmsat.com
