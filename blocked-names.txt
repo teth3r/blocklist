@@ -16198,7 +16198,6 @@
 *.graphosproduct.com
 *.graspsolutions.net
 *.grassrootsadvertising.com
-*.gravatar.com
 *.gravesfowler.com
 *.gravidtrekker.com
 *.gravismarketing.com
@@ -36054,7 +36053,6 @@
 *.whatrocks.co
 *.whats-up.de
 *.whatsahead.com
-*.whatsapp.com
 *.whatshappeningpromotions.com
 *.whatsinaname.in
 *.whatsthe-trend.com
