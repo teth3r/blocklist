@@ -6,6 +6,7 @@
 *1xbet*
 *bet9ja*
 *betano*
+*youtube*
 *.icomoon.io
 *.prtl.co
 *.00f.net
@@ -14956,7 +14957,6 @@
 *.futurasciences.fr
 *.future-ink.com
 *.futurebuffalowebdesign.com
-*.futurecdn.net
 *.futurefonts.xyz
 *.futureforth.com
 *.futurehybrid.tech
@@ -29136,6 +29136,7 @@
 *.sdpamp.com
 *.sdreamworks.in
 *.sdsttt.com
+*.sdswift.com
 *.sdv.fr
 *.se2communications.com
 *.seaboblit.com
