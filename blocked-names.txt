@@ -15169,7 +15169,6 @@
 *.gcfonline.com
 *.gciad.com
 *.gcinco.com
-*.gcloudcs.com
 *.gcore.lu
 *.gcprivacy.com
 *.gcyzgld.com
@@ -16829,7 +16828,6 @@
 *.helpmybusiness.com
 *.helpnetsecurity.com
 *.helpscout.net
-*.helpshift.com
 *.helt-consulting.com
 *.helveticka.com
 *.hemiolajobson.website
@@ -17664,7 +17662,6 @@
 *.ig-1.net
 *.ig.com
 *.ig.me
-*.igamecj.com
 *.igaming-service.io
 *.igaworks.com
 *.igentics.com
@@ -26787,7 +26784,6 @@
 *.proxena.com
 *.proxi.cloud
 *.proximaajans.com
-*.proximabeta.com
 *.proximitybarcelona.es
 *.proximomarketing.com
 *.proxistore.com
@@ -26871,7 +26867,6 @@
 *.pubfuture.com
 *.pubgalaxy.com
 *.pubgenius.io
-*.pubgmobile.com
 *.pubgrade.com
 *.pubguru.com
 *.pubguru.net
