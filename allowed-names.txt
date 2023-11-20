@@ -616,6 +616,8 @@ d-*.winudf.com
 =i.genius.com
 =assets.genius.com
 =images.genius.com
+=filepicker-images.genius.com
+=librato-collector.genius.com
 =t2.genius.com
 #--------------------------------------------------------------
 # Syair
@@ -1054,11 +1056,20 @@ stream-*.zeno.fm
 =www.cowrywise.com
 =cowrywise.com
 #--------------------------------------------------------------
+# Crates
+#--------------------------------------------------------------
+=index.crates.io
+=crates.io
+=static.crates.io
+#--------------------------------------------------------------
 # Whatsapp
 #--------------------------------------------------------------
 =g.whatsapp.net
 =g-fallback.whatsapp.net
 =static.whatsapp.net
+=mmg.whatsapp.net
+=graph.whatsapp.com
+=media.flos1-1.fna.whatsapp.net
 =media.flos1-2.fna.whatsapp.net
 =media.flos5-1.fna.whatsapp.net
 =sonar-los.cdn.whatsapp.net
