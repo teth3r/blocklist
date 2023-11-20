@@ -4426,16 +4426,9 @@
 *.awptlpu.com
 *.awpya.com
 *.awrrzje.com
-*.aws.dev
-*.awscloud.com
-*.awscloudfront.ml
-*.awsdns-11.co.uk
-*.awsevents.net
-*.awsglobalaccelerator.com
 *.awsilvcons.com
 *.awsmpsa.com
 *.awssdu.nl
-*.awsstatic.com
 *.awstaticdn.net
 *.awstrack.me
 *.awswaf.com
@@ -32250,9 +32243,6 @@
 *.ten35.com
 *.tenadams.com
 *.tenadv.com
-*.tencent-cloud.net
-*.tencent.com
-*.tencent.net
 *.tenchologya.com
 *.tend.io
 *.tenderindustries.com
