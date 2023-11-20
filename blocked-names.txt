@@ -3663,9 +3663,6 @@
 *.architec.agency
 *.architectural-review.com
 *.architecturaloverflow.com
-*.archive.is
-*.archive.org
-*.archived.moe
 *.archiveofsins.com
 *.archives.gov
 *.archlsa.de
@@ -11475,8 +11472,6 @@
 *.destmark.com
 *.desty.page
 *.destygo.com
-*.desuarchive.org
-*.desuarchives.org
 *.deswork.com
 *.detailedglue.com
 *.detailedgovernment.com
@@ -12745,7 +12740,6 @@
 *.edgenpd.com
 *.edgepartnerships.com
 *.edgepointcreative.ca
-*.edgesuite.net
 *.edgetexas.com
 *.edgewater-digital.com
 *.edgeworkscreative.com
@@ -33656,7 +33650,6 @@
 *.trafficjunky.com
 *.trafficjunky.net
 *.trafficleader.com
-*.trafficmanager.net
 *.trafficmas.com
 *.trafficpointltd.com
 *.trafficroots.com
