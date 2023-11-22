@@ -1,14 +1,15 @@
 #--------------------------------------------------------------
 # TETHER'S DOMAIN BLOCKLIST
 #--------------------------------------------------------------
-*analytics*
-*google*
 *1xbet*
+*analytics*
+*adserve*
+*adservice*
 *bet9ja*
 *betano*
+*coomer*
+*google*
 *youtube*
-*.icomoon.io
-*.prtl.co
 *.00f.net
 *.011digital.com
 *.0318media.nl
@@ -756,9 +757,6 @@
 *.a2mred.com
 *.a2nn5eri7ce.com
 *.a2tw6yoodsag.com
-*.a2z.com
-*.a2zdesign.com
-*.a2zsocialdesign.com
 *.a3-design.com
 *.a3.ag
 *.a3cloud.net
@@ -887,7 +885,6 @@
 *.aboalarm.com
 *.aboardlevel.com
 *.abombu.com
-*.aboutamazon.com
 *.aboutprofit.eu
 *.aboutstatic.com
 *.aboutyou.ch
@@ -4006,10 +4003,7 @@
 *.assettoworld.com
 *.assettype.com
 *.assistdigital.it
-*.assoc-amazon.com
-*.assoc-amazon.de
 *.associatedpress.com
-*.associates-amazon.com
 *.assurancelocusmat.com
 *.ast2ya4ee8wtnax.com
 *.astatic.org
@@ -10031,6 +10025,7 @@
 *.cooltribes.com
 *.coomeet.com
 *.coomeet.me
+*.coomer.su
 *.coop.ch
 *.cooperatemarketing.com
 *.cooperhong.com
@@ -12627,13 +12622,9 @@
 *.ebaaa.xyz
 *.ebadore.com
 *.ebay-kleinanzeigen.de
-*.ebay.com
 *.ebayadservices.com
 *.ebayadvertising.com
-*.ebaycdn.net
 *.ebayclassifieds.net
-*.ebayimg.com
-*.ebaystatic.com
 *.ebbengroup.com
 *.ebcjo.com
 *.ebconcepts.com
@@ -17515,6 +17506,7 @@
 *.icommercedev.com
 *.icommunicationsinc.com
 *.icomoindia.com
+*.icomoon.io
 *.icon-ad.com
 *.icon256.com
 *.iconape.com
@@ -17783,7 +17775,6 @@
 *.imagenmedia.co
 *.imageresizertool.com
 *.imagerycreative.com
-*.images-amazon.com
 *.images-apmex.com
 *.images-dnxlive.com
 *.images-home.com
@@ -21314,6 +21305,7 @@
 *.magnusdigital.my
 *.magnusondesign.com
 *.magpiealert.com
+*.magsrv.com
 *.maguires.agency
 *.magybu.net
 *.magzdb.org
@@ -21994,7 +21986,6 @@
 *.medfoodtech.com
 *.medgadget.com
 *.media-alacarte.com
-*.media-amazon.com
 *.media-artists.nl
 *.media-assembly.com
 *.media-brokers.com
@@ -25547,9 +25538,6 @@
 *.paycounter.com
 *.paylinks.space
 *.paylinnk.com
-*.payments-amazon.com
-*.paypal.com
-*.paypalobjects.com
 *.payperclick.ro
 *.payperheadsportsbook.com
 *.paypersale.ru
@@ -26799,6 +26787,7 @@
 *.prspctvcrtvs.com
 *.prstoreky.com
 *.prstrategies.net
+*.prtl.co
 *.prudentdigital.in
 *.prusaprinters.org
 *.prutosom.com
@@ -30946,7 +30935,6 @@
 *.ssk.com
 *.sskmnews.pro
 *.sskzlabs.com
-*.ssl-images-amazon.com
 *.ssp.ng
 *.sspinc.io
 *.ssristories.org
@@ -36753,9 +36741,6 @@
 *.yalla-shoot-now.us
 *.yameen.xyz
 *.yamstamp.com
-*.yandex.com
-*.yandex.net
-*.yandex.ru
 *.yandexadexchange.net
 *.yandl.com
 *.yank.ag
@@ -36779,7 +36764,6 @@
 *.ybimc.com
 *.yclost.com
 *.ycmedia.cn
-*.ycombinator.com
 *.ydigital.co
 *.ydigitalmedia.com
 *.ydsolutions.co
