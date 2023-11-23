@@ -1029,6 +1029,11 @@ stream-*.zeno.fm
 # Googlesource
 #--------------------------------------------------------------
 *.googlesource.com
+lh[0-9]*.googleusercontent.com
+=www.gstatic.com
+=fonts.gstatic.com
+=gstatic.com
+=fonts.googleapis.com
 #--------------------------------------------------------------
 # 4chan
 #--------------------------------------------------------------
