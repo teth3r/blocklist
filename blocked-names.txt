@@ -29603,7 +29603,6 @@
 *.shevelev.net
 *.shgcdn.com
 *.shhopper.org
-*.shields.io
 *.shifen.com
 *.shiftadvertising.ca
 *.shiftdigital.com
