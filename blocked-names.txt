@@ -4611,7 +4611,6 @@
 *.badmonkey.fr
 *.badoo.com
 *.badrhinoinc.com
-*.baeldung.com
 *.baeredge.net
 *.baerpm.com
 *.bagbeam.com
@@ -20751,9 +20750,6 @@
 *.lldns.net
 *.llinkon.com
 *.llizo.marketing
-*.llnw.net
-*.llnwd.net
-*.llnwi.net
 *.lloydbryantenterprise.com
 *.lltrck.com
 *.lluviadigital.com
@@ -36148,7 +36144,6 @@
 *.wihonevi.com
 *.wijs.be
 *.wika.de
-*.wiktionary.org
 *.wildandslow.fr
 *.wildblog.me
 *.wildcatseo.com
