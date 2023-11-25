@@ -10564,7 +10564,6 @@
 *.cacannabisindustry.org
 *.cacao-moscow.com
 *.cache-essential-apps.cc
-*.cachefly.net
 *.cachegorilla.com
 *.cackle.me
 *.cactusdenver.com
@@ -42791,7 +42790,6 @@
 *.rudyscommonsense.com
 *.ruf2z4emtvsj3bq.com
 *.ruftodru.net
-*.rufus.ie
 *.rugbyrama.fr
 *.ruggedcoastal.com
 *.rugtt9b4babpvg52.com
@@ -50641,7 +50639,6 @@
 *.tutsnode.org
 *.tuugo.com
 *.tuulimedia.com
-*.tuxedocomputers.com
 *.tuyensex3x.com
 *.tv-maniak.pl
 *.tv-online-news.com
