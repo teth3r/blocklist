@@ -867,8 +867,6 @@
 *.4bmedia.tv
 *.4cache.net
 *.4cc.co
-*.4chan.com
-*.4chan.org
 *.4d5.net
 *.4dex.io
 *.4directionsmedia.com
