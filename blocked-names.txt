@@ -41638,16 +41638,10 @@
 *.redcoosswe937.com
 *.redcrowmarketing.com
 *.redcubedigital.com
-*.redd.it
 *.reddcoineveryday.com
 *.reddeluxe.com
 *.reddirtmedia.com
 *.reddishpinkmedia.com
-*.reddit-stream.com
-*.reddit.com
-*.redditinc.com
-*.redditmedia.com
-*.redditstatic.com
 *.reddogagency.com
 *.reddoorconsult.com
 *.reddotad.com
@@ -47421,8 +47415,6 @@
 *.t-world.one
 *.t-y.cfd
 *.t-zero.org
-*.t.co
-*.t.me
 *.t0-ico.com
 *.t0elvbikyf7f.com
 *.t0gvf.com
@@ -48053,9 +48045,6 @@
 *.telegra.ph
 *.telegraaf-nl.info
 *.telegraaf.nl
-*.telegram-cdn.org
-*.telegram.me
-*.telegram.org
 *.telegraph.co.uk
 *.telegraphcreative.com
 *.telekom.de
