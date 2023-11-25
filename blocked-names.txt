@@ -36604,12 +36604,6 @@
 *.openspacesmarketing.com
 *.openspark.co
 *.opensrc-ai.top
-*.openstreetmap.bzh
-*.openstreetmap.de
-*.openstreetmap.fr
-*.openstreetmap.org
-*.opensubtitles.com
-*.opensubtitles.org
 *.opentable.ca
 *.opentable.com
 *.opentech.com
