@@ -36597,7 +36597,6 @@
 *.openh264.org
 *.openhandmedia.org
 *.openinstall.io
-*.openkeychain.org
 *.openmygame.com
 *.openreplay.com
 *.opensharecount.com
