@@ -31542,7 +31542,6 @@
 *.maomarketing.com
 *.mapadelasprepagos.com
 *.mapads.net
-*.mapbox.com
 *.mapbranding.com
 *.mapekony.com
 *.mapixl.com
@@ -43347,7 +43346,6 @@
 *.scbmarketing.com
 *.scdagency.in
 *.scdconsultingservices.com
-*.scdn.co
 *.scegli-vinci.it
 *.scei-concour.fr
 *.scene-porn.com
@@ -45061,7 +45059,6 @@
 *.sl-2abtcbunch.com
 *.sl-3abtcbunch.com
 *.slack-app.net
-*.slack.com
 *.slackandcompany.com
 *.slackbuilds.org
 *.slaclaimfreebits.com
@@ -55981,8 +55978,6 @@
 *.zcpa.us
 *.zcsocialmedia.com
 *.zdarzenia24.pl
-*.zdassets.com
-*.zdbb.net
 *.zdecyduj-samemu.eu
 *.zdecyduj-wybieraj.eu
 *.zdecyduj-wygranego.eu
