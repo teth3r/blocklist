@@ -1,11 +1,16 @@
 #--------------------------------------------------------------
 # TETHER'S DOMAIN BLOCKLIST
 #--------------------------------------------------------------
+ads[0-9]*
+ads.*
+stats.*
+tracking.*
 *1xbet*
 *adserve*
 *adservice*
 *analytics*
 *bangbros*
+*banner*
 *bet9ja*
 *betano*
 *coomer*
@@ -33127,8 +33132,6 @@
 *.mktgcdn.com
 *.mkto-ab410147.com
 *.mktoresp.com
-*.mktossl.com
-*.mktoweb.com
 *.mktsci.com
 *.mktservices.com
 *.mktw.net
@@ -36424,6 +36427,7 @@
 *.online-like1.site
 *.online-loading.com
 *.online-marketing-russland.de
+*.online-metrix.net
 *.online-news.fun
 *.online-office365.com
 *.online-one.site
@@ -52888,8 +52892,6 @@
 *.walls.io
 *.wallsets.com
 *.walltowall.com
-*.walmart.com
-*.walmartimages.com
 *.walnut.ae
 *.waloinc.com
 *.walrusnyc.com
