@@ -11383,7 +11383,6 @@
 *.cdndex.io
 *.cdnekoi.com
 *.cdnfarecompare.com
-*.cdnfontawesome.com
 *.cdnfonts.com
 *.cdnfor.in
 *.cdnga.net
@@ -19875,7 +19874,6 @@
 *.fondamentale.co
 *.fondationbeyeler.ch
 *.font.im
-*.fontawesome.com
 *.fontke.com
 *.fontlibrary.org
 *.fontm.com
