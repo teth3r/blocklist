@@ -18,7 +18,12 @@ lh[0-9]*.googleusercontent.com
 =www.gstatic.com
 =fonts.gstatic.com
 =gstatic.com
+#--------------------------------------------------------------
+# Googleapis
+#--------------------------------------------------------------
 =fonts.googleapis.com
+=ajax.googleapis.com
+=storage.googleapis.com
 #--------------------------------------------------------------
 # Torrent trackers
 #--------------------------------------------------------------
