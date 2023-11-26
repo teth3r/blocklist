@@ -26318,7 +26318,6 @@ tracking.*
 *.iyfh-785.cfd
 *.iyfnzgb.com
 *.izanami-antenna.com
-*.izatcloud.net
 *.ize.digital
 *.izea.com
 *.izellmarketing.com
