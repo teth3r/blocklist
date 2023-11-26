@@ -4383,8 +4383,6 @@
 *.andrewreadesign.com
 *.andriesshied.com
 *.androbmedia.com
-*.androeed.ru
-*.androeed.store
 *.android-cleaner.net
 *.android-mody.store
 *.android-style.com
@@ -4392,7 +4390,6 @@
 *.android.net
 *.android.org
 *.androidadult-com.ru
-*.androidauthority.com
 *.androidcure.com
 *.andromedae-b.com
 *.androvett.com
@@ -15970,8 +15967,6 @@
 *.digitalnext.lk
 *.digitalnirav.in
 *.digitalnotebook.in
-*.digitalocean.com
-*.digitaloceanspaces.com
 *.digitalodyssey.net
 *.digitalposition.com
 *.digitalprayas.com
@@ -18028,7 +18023,6 @@
 *.epicadgroup.com
 *.epiccreative.com
 *.epicenteradvertising.com
-*.epicgames.com
 *.epicinspired.com
 *.epicinteractivemedia.com
 *.epickmarketing.com
@@ -19550,9 +19544,6 @@
 *.fioredesign.net
 *.fir3.net
 *.fire-link.net
-*.firebase.com
-*.firebaseapp.com
-*.firebaseio.com
 *.firebirddesignworks.com
 *.firebit.co.uk
 *.fireboxrazor.video
@@ -19920,7 +19911,6 @@
 *.fooot-map.com
 *.footeprintmktg.com
 *.footlocker.eu
-*.footprint.net
 *.footprintdns.com
 *.footprintpredict.com
 *.for-lover.com
@@ -25010,7 +25000,6 @@
 *.imginn.net
 *.imginn.org
 *.imginn.web
-*.imgix.net
 *.imgkenya.com
 *.imgkit.net
 *.imglnke.com
@@ -25172,7 +25161,6 @@
 *.inbrax.cl
 *.inc-obsuga-klienta.com
 *.inc88th.com
-*.incapdns.net
 *.incartupsell.com
 *.incast.us
 *.incels.co
@@ -27017,7 +27005,6 @@
 *.jptgrouppr.com
 *.jq3t.pics
 *.jqhwqcv46c.digital
-*.jquery.com
 *.jqueryscript.net
 *.jr-odekake.net
 *.jr-software-web.net
@@ -35596,7 +35583,6 @@
 *.ntdmediaonline.com
 *.ntheirface.com
 *.ntooitive.com
-*.ntp.org
 *.ntr-games.com
 *.ntv.io
 *.ntvk1.ru
@@ -35738,9 +35724,6 @@
 *.nypdev.com
 *.nypost.com
 *.nyseofirm.com
-*.nyt.com
-*.nyt.net
-*.nyti.ms
 *.nytrng.com
 *.nytromarketing.com
 *.nyttnorge.com
@@ -37607,7 +37590,6 @@
 *.pcguru.hu
 *.pchouseproductions.com
 *.pcid.ca
-*.pcmag.com
 *.pcmasters.de
 *.pcoc.mx
 *.pcozta-polska.cc
@@ -43370,7 +43352,6 @@
 *.scei-concour.fr
 *.scene-porn.com
 *.scene.digital
-*.scene7.com
 *.scenestealer.tv
 *.scg.agency
 *.schadtracy.com
@@ -45997,8 +45978,6 @@
 *.spotdigitalmarketing.com
 *.spoteffects.net
 *.spotible.com
-*.spotify.com
-*.spotifycdn.com
 *.spotim.market
 *.spotlessstamp.com
 *.spotlightbranding.com
@@ -46324,7 +46303,6 @@
 *.stat24.com
 *.stat385.com
 *.statcdn.com
-*.statcounter.com
 *.statdynamic.com
 *.statecomp-pl.xyz
 *.statenets.com
