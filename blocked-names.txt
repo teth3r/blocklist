@@ -10954,7 +10954,6 @@ tracking.*
 *.care2.us
 *.carebridgedigital.com
 *.carecart.io
-*.careercup.com
 *.careerhunter.space
 *.careerjet.org
 *.careernet.gr
@@ -11368,9 +11367,6 @@ tracking.*
 *.cdn4dd.com
 *.cdn69.net
 *.cdn70.com
-*.cdn77.com
-*.cdn77.net
-*.cdn77.org
 *.cdnassetscache.com
 *.cdnativepush.com
 *.cdnaz.win
@@ -12678,7 +12674,6 @@ tracking.*
 *.cloudfirst.digital
 *.cloudflareinsights.com
 *.cloudfrale.com
-*.cloudfunctions.net
 *.cloudgatemedia.com
 *.cloudgetlink.com
 *.cloudimagesb.com
@@ -36499,7 +36494,6 @@ tracking.*
 *.onpoint.mk
 *.onprospects.com
 *.onqmarketing.com
-*.onrender.com
 *.onsappsail-dev.com
 *.onscreen-media.com
 *.onscroll.com
