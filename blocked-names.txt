@@ -3,6 +3,7 @@
 #--------------------------------------------------------------
 ads[0-9]*
 ads.*
+*.ads.*
 stats.*
 tracking.*
 *1xbet*
@@ -14213,7 +14214,6 @@ tracking.*
 *.crossfuse.com
 *.crosshairmedia.net
 *.crossinstall.com
-*.crossref.org
 *.crossroads.us
 *.crossroadsdubai.com
 *.crosssell.info
@@ -16382,8 +16382,6 @@ tracking.*
 *.documentforce.com
 *.dodawanie-fotki.eu
 *.dodesigninc.com
-*.dodi-repacks.download
-*.dodi-repacks.site
 *.dodier.com
 *.doeanderson.com
 *.doer.cr
@@ -36668,6 +36666,7 @@ tracking.*
 *.optincdn.com
 *.optinly.net
 *.optinproject.com
+*.optistats.ovh
 *.optiview360.com
 *.optixor.com
 *.optmd.com
@@ -46021,12 +46020,7 @@ tracking.*
 *.springboardmarketing.com
 *.springbokagency.com
 *.springbot.com
-*.springer-sbm.com
-*.springer.com
-*.springermedizin.de
 *.springermktadv.com
-*.springernature.app
-*.springernature.io
 *.springerstudios.com
 *.springfieldspreschools.com
 *.springserve.com
