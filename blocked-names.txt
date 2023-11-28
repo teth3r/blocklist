@@ -56,8 +56,6 @@ tracking.*
 *.1000facials.com
 *.1000ps.net
 *.1001.tl
-*.1001fonts.com
-*.1001fonts.net
 *.100200film.com
 *.100amateurvideos.com
 *.100bestpornsites.com
@@ -1519,7 +1517,6 @@ tracking.*
 *.abstractapi.com
 *.abstractdigitalworld.com
 *.abstractedauthority.com
-*.abstractfonts.com
 *.abstractgroove.com
 *.abstraer.com
 *.absurdwater.com
@@ -3442,7 +3439,6 @@ tracking.*
 *.aisera.cloud
 *.aiservice.vn
 *.aisforapple.fr
-*.aisforfonts.com
 *.aistat.net
 *.aitech23.online
 *.aivalabs.com
@@ -5301,7 +5297,6 @@ tracking.*
 *.ascend.marketing
 *.ascendamarketing.com
 *.ascendercorp.com
-*.ascenderfonts.com
 *.ascensionbrandingmarketing.com
 *.ascensionmarketinginc.net
 *.ascensus.com
@@ -5559,7 +5554,6 @@ tracking.*
 *.atlas-api.com
 *.atlas-report.com
 *.atlas-upd.com
-*.atlasfonts.com
 *.atlasrtx.com
 *.atlassian.com
 *.atlassian.net
@@ -11385,7 +11379,6 @@ tracking.*
 *.cdndex.io
 *.cdnekoi.com
 *.cdnfarecompare.com
-*.cdnfonts.com
 *.cdnfor.in
 *.cdnga.net
 *.cdngain.com
@@ -14482,7 +14475,6 @@ tracking.*
 *.cueco.uk
 *.cuecreative.com
 *.cuelinks.com
-*.cufonfonts.com
 *.culass.com
 *.cullgroup.com
 *.cult3d.com
@@ -14826,7 +14818,6 @@ tracking.*
 *.dafa08.net
 *.dafacai360.com
 *.dafeb.ru
-*.dafont.com
 *.daftar-klik4d.net
 *.daftarbetplace88.com
 *.daftarslotgacorpadi888.com
@@ -19871,22 +19862,6 @@ tracking.*
 *.fonda.at
 *.fondamentale.co
 *.fondationbeyeler.ch
-*.font.im
-*.fontke.com
-*.fontlibrary.org
-*.fontm.com
-*.fontmeme.com
-*.fonts.com
-*.fonts.net
-*.fonts4ever.com
-*.fontsgeek.com
-*.fontshop.com
-*.fontspace.com
-*.fontspace.io
-*.fontspring.com
-*.fontsquirrel.com
-*.fontstruct.com
-*.fontsy.com
 *.foo.software
 *.foo6bordelsonthenet.info
 *.food-offer.com
@@ -20597,7 +20572,6 @@ tracking.*
 *.future7steptripqsty.xyz
 *.future7steyptripqsty.xyz
 *.futurebuffalowebdesign.com
-*.futurefonts.xyz
 *.futureforth.com
 *.futurehybrid.tech
 *.futurein-2023.click
@@ -23326,7 +23300,6 @@ tracking.*
 *.helloemilymarketing.com
 *.helloevery1.com
 *.helloextend.com
-*.hellofont.com
 *.hellogrip.com
 *.hellohydrant.com
 *.hellomedian.com
@@ -24697,7 +24670,6 @@ tracking.*
 *.idelv.net
 *.idemdesign.it
 *.ident-creative.com
-*.identifont.com
 *.identite-verification-vinted.info
 *.identitydubai.com
 *.identityprojection.com
@@ -30575,7 +30547,6 @@ tracking.*
 *.localchildcaremarketing.com
 *.localesaftaba.com
 *.localeyemedia.com
-*.localfonts.eu
 *.localglobal.com
 *.localh0st.info
 *.localhood.com
@@ -30953,7 +30924,6 @@ tracking.*
 *.luchidesign.it
 *.lucia9s.com
 *.lucid.app
-*.lucidafonts.com
 *.lucidcam.com
 *.lucidica-testing.com
 *.lucidity.tech
@@ -34035,7 +34005,6 @@ tracking.*
 *.muy-porno.com
 *.mv0129.stream
 *.mvb88.com
-*.mvbfonts.com
 *.mvcagency.com
 *.mvistatic.com
 *.mvlehti.net
@@ -34161,8 +34130,6 @@ tracking.*
 *.myfidevs.io
 *.myfile-host.info
 *.myflavia.com
-*.myfonts.com
-*.myfonts.net
 *.myfreemp3player.com
 *.myfriendsnephew.com
 *.mygroovedesign.com
@@ -34686,7 +34653,6 @@ tracking.*
 *.netflix-updateinfo.com
 *.netflix.com
 *.netflixsupport-all.com
-*.netfontlibrary.org
 *.netfusionmedia.com
 *.netglobes.com
 *.netglue.uk
@@ -36462,7 +36428,6 @@ tracking.*
 *.onlinesafetytraining.ca
 *.onlinesms.com
 *.onlineuserdefender.com
-*.onlinewebfonts.com
 *.onlinist.com
 *.onlline-pocztovvy.cc
 *.onlline-pocztovvy.info
@@ -43097,7 +43062,6 @@ tracking.*
 *.salifex.com
 *.salkaner-invest.pro
 *.sallyjohnsdesign.com
-*.salomefont.com
 *.salomon.com
 *.salondziners.com
 *.saltateblit.com
@@ -48053,7 +48017,6 @@ tracking.*
 *.tend.io
 *.tenderindustries.com
 *.tendertest.com
-*.tendollarfonts.com
 *.tendsweb.com
 *.tenfoursocial.com
 *.tenmarks.com
@@ -53563,7 +53526,6 @@ tracking.*
 *.welove9am.com
 *.welovecrypto.xyz
 *.welovedigital.com
-*.weloveiconfonts.com
 *.welovetheweb.com
 *.welovetrump.com
 *.welt.de
