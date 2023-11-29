@@ -34321,7 +34321,6 @@ tracking.*
 *.nartakmediagroup.com
 *.narup.com
 *.narzedzia24.net
-*.nasa.gov
 *.nasar.in
 *.nascode.com
 *.nashvillebrandcompany.com
