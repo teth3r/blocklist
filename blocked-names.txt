@@ -16,6 +16,7 @@ tracking.*
 *betano*
 *coomer*
 *dogfartnetwork*
+*facebook*
 *getitright*
 *google*
 *hentai*
@@ -5838,7 +5839,6 @@ tracking.*
 *.audioburst.com
 *.audioeye.com
 *.audiohook.com
-*.audiomack.com
 *.audion.fm
 *.audionow.de
 *.audiopulsar.com
@@ -16092,7 +16092,6 @@ tracking.*
 *.disaul.com
 *.disclose.tv
 *.disco-api.com
-*.discogs.com
 *.discorcd-app.com
 *.discord-airdrop.com
 *.discord-app.net
@@ -18998,7 +18997,6 @@ tracking.*
 *.fast-date.site
 *.fast-redirecting.com
 *.fast-unfollow.com
-*.fast.com
 *.fast21onli4e.online
 *.fast4ik.site
 *.fast6l1fe.xyz
@@ -19639,8 +19637,6 @@ tracking.*
 *.fkk-held.com
 *.fko-34.cfd
 *.fksnk.com
-*.flac-album.com
-*.flac.me
 *.flagmantensity.com
 *.flagscommunications.com
 *.flagshipmarketing.info
@@ -24084,7 +24080,6 @@ tracking.*
 *.hulkapps.com
 *.hulkmarketing.com
 *.hullabaloo-eu.com
-*.hulu.com
 *.humahospital.com
 *.humanbranding.ca
 *.humandesign.com
@@ -30757,7 +30752,6 @@ tracking.*
 *.losasso.com
 *.lose-to-win.com
 *.losquiltros.cl
-*.losslessclub.com
 *.lost-icloud.live
 *.losteria-parlamento.de
 *.losteria.net
@@ -34602,7 +34596,6 @@ tracking.*
 *.netflix-promocja.pl
 *.netflix-update-infos.com
 *.netflix-updateinfo.com
-*.netflix.com
 *.netflixsupport-all.com
 *.netfusionmedia.com
 *.netglobes.com
@@ -36439,7 +36432,6 @@ tracking.*
 *.oodleimg.com
 *.oogneenu.net
 *.oohingjap.com
-*.ooklaserver.net
 *.oolitemedia.com
 *.ooo-sex.com
 *.ooo-sex.tv
@@ -38098,7 +38090,6 @@ tracking.*
 *.pingit.im
 *.pingless.com
 *.pingpress.com
-*.pinimg.com
 *.pink-pornstars.com
 *.pinkbananamedia.com
 *.pinkbd.com
@@ -38120,7 +38111,6 @@ tracking.*
 *.pinpoll.com
 *.pinstripemarketing.com
 *.pintausa.com
-*.pinterest.com
 *.pioneermarketingconceptsinc.com
 *.pioneerpromo.com
 *.pioniri.com
@@ -40923,8 +40913,6 @@ tracking.*
 *.quoisy.com
 *.quokkacheeks.com
 *.quondc.com
-*.quora.com
-*.quoracdn.net
 *.quoteapi.com
 *.quoteinvestigator.com
 *.quotemedia.com
@@ -41163,7 +41151,6 @@ tracking.*
 *.rapid-xxx.com
 *.rapid12trackers.com
 *.rapidcounter.com
-*.rapidgator.net
 *.rapidkittens.com
 *.rapidlylarrup.space
 *.rapidpanda.io
@@ -45582,7 +45569,6 @@ tracking.*
 *.soundboardevent.com
 *.soundcast.fm
 *.soundclaz.com
-*.soundcloud.com
 *.soundestlink.com
 *.soundlit-studio.com
 *.soundmindcreative.com
