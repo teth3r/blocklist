@@ -4833,7 +4833,6 @@ tracking.*
 *.appleboxstudios.com
 *.appleid-account.com
 *.appleid-map.com
-*.appleinsider.com
 *.applemediaservices.com
 *.appleprinting.com
 *.applesandarrows.com
@@ -6848,8 +6847,6 @@ tracking.*
 *.bahn.de
 *.bahronlinemarketing.com
 *.baicho.xyz
-*.baidu.com
-*.baidustatic.com
 *.bailey-and-co.com
 *.baileylauerman.com
 *.bailonushe.com
@@ -8315,9 +8312,6 @@ tracking.*
 *.bildirt.com
 *.bilendi.com
 *.bilgin.pro
-*.bilibili.tv
-*.bilicdn1.com
-*.bilicdn2.com
 *.bilim-artsport.com
 *.bilinmedia.net
 *.bilintechnology.com
@@ -8815,7 +8809,6 @@ tracking.*
 *.bloggalot.com
 *.bloggater.com
 *.blogger-register.com
-*.blogger.com
 *.bloggerku.com
 *.blogghubb.se
 *.bloggif.com
@@ -8840,7 +8833,6 @@ tracking.*
 *.blogsandnews.com
 *.blogscrolls.com
 *.blogspinners.com
-*.blogspot.com
 *.blogsys.jp
 *.blogtoplist.se
 *.blogtopsites.com
@@ -14005,7 +13997,6 @@ tracking.*
 *.creativecirclemedia.com
 *.creativecloud.com
 *.creativeco-op.com
-*.creativecommons.org
 *.creativeconcern.com
 *.creativecore.net
 *.creativedepartment.com
@@ -15606,8 +15597,6 @@ tracking.*
 *.developpaper.com
 *.deveney.com
 *.deverman.com
-*.deviantart.com
-*.deviantart.net
 *.deviatelabs.com
 *.device-bridge.net
 *.devices4ull.quest
@@ -16097,8 +16086,6 @@ tracking.*
 *.discord-app.net
 *.discord-give.com
 *.discord-go.com
-*.discord.com
-*.discordapp.com
 *.discordserv.com
 *.discount2021.ru
 *.discountclick.com
@@ -16826,8 +16813,6 @@ tracking.*
 *.dubaiwebsitecompany.com
 *.duckbet168.com
 *.duckcart.com
-*.duckdns.org
-*.duckduckgo.com
 *.duckswillsmoochyou.com
 *.duckthunder.com
 *.ducttapemarketing.com
@@ -17396,7 +17381,6 @@ tracking.*
 *.efeederstech.com
 *.efero-it.cyou
 *.efero-pl.cyou
-*.eff.org
 *.effead.com
 *.effectdigital.com
 *.effective-offers.com
@@ -21164,7 +21148,6 @@ tracking.*
 *.getcandid.com
 *.getcatalyzed.com
 *.getclicky.com
-*.getcomics.info
 *.getcong.com
 *.getcustomlogo.com
 *.getdivorcepapers.com
@@ -21866,7 +21849,9 @@ tracking.*
 *.gonutritionhub.com
 *.gonzalezmarketing.com
 *.gonzobox.com
+*.goog.le
 *.goo.gl
+*.goo.gle
 *.goockle.com
 *.good-assist.info
 *.good-babes.com
@@ -30349,8 +30334,6 @@ tracking.*
 *.live-ups.com
 *.live-video.net
 *.live-yesmessenger.com
-*.live.com
-*.live.net
 *.live18.online
 *.live1powerlife.com
 *.live1program.site
@@ -31301,7 +31284,6 @@ tracking.*
 *.mail-dnb.pl
 *.mail-en-marche.fr
 *.mail-ss.com
-*.mail.ru
 *.mailcampaigns.nl
 *.mailchimp.com
 *.maildata-updates.info
@@ -34247,7 +34229,6 @@ tracking.*
 *.nagyi-szex.com
 *.naiadsystems.com
 *.nail.cc
-*.nairaland.com
 *.naj.sk
 *.najlepsze-auta24.pl
 *.najlepsze-autko.pl
@@ -35005,7 +34986,6 @@ tracking.*
 *.nfd.ca
 *.nfdj39.cyou
 *.nfl2021.live
-*.nflxext.com
 *.nfmdymun.com
 *.nforty.com
 *.nftkreator.com
@@ -35621,7 +35601,6 @@ tracking.*
 *.nympho.dk
 *.nyoero.com
 *.nypdev.com
-*.nypost.com
 *.nyseofirm.com
 *.nytrng.com
 *.nytromarketing.com
@@ -36592,8 +36571,6 @@ tracking.*
 *.oqozrmu3znp.digital
 *.or-newt.online
 *.or-oil.online
-*.oracle.com
-*.oraclecloud.com
 *.oracledigital.marketing
 *.oracleinfinity.io
 *.oraclemarketer.com
@@ -37397,7 +37374,6 @@ tracking.*
 *.patientmoon.com
 *.patientpower.info
 *.patondigitalmarketing.com
-*.patreon.com
 *.patriotadvertising.com
 *.patrioticalternative.org.uk
 *.patriotmobile.com
@@ -40741,7 +40717,6 @@ tracking.*
 *.qoorts.nl
 *.qorvis.com
 *.qozveo.com
-*.qq.com
 *.qq101.com
 *.qq188.com
 *.qq288.com
@@ -44432,7 +44407,6 @@ tracking.*
 *.shopiapps.in
 *.shopicar.com
 *.shopify-ac.top
-*.shopify.com
 *.shopimind.com
 *.shopimind.io
 *.shopingshop23.site
@@ -44928,7 +44902,6 @@ tracking.*
 *.skymarketingiraq.com
 *.skynet.be
 *.skynetenterprisesinc.com
-*.skype.com
 *.skypicker.com
 *.skyrock.com
 *.skyrock23new.org
@@ -50419,7 +50392,6 @@ tracking.*
 *.tulos.fi
 *.tulsamarketingonline.com
 *.tumarketing.co
-*.tumblr.com
 *.tumedia.no
 *.tumi.com
 *.tumi.de
@@ -50571,10 +50543,7 @@ tracking.*
 *.twit.tv
 *.twitch-games.plus
 *.twitch-roll.com
-*.twitch.com
-*.twitch.tv
 *.twitch2cs.com
-*.twitchcdn.net
 *.twitchs-cs2.com
 *.twitchs-tv.com
 *.twitchy.com
@@ -52237,8 +52206,6 @@ tracking.*
 *.vjav-com.ru
 *.vjjz-offers.com
 *.vjltoawyx9b.digital
-*.vk.com
-*.vk.ru
 *.vk103.com
 *.vk2ca.com
 *.vkj2.shop
@@ -52650,7 +52617,6 @@ tracking.*
 *.w2mobile.com
 *.w2o.shop
 *.w3-annuaire.com
-*.w3.org
 *.w365w.net
 *.w365win.win
 *.w388.com
@@ -53113,8 +53079,6 @@ tracking.*
 *.weartv.com
 *.weaselzippers.us
 *.weather-forecast.com
-*.weather.com
-*.weather.gov
 *.weatherwidget.io
 *.weave.asia
 *.weaveyourwebdesign.com
@@ -53225,8 +53189,6 @@ tracking.*
 *.webeyez.com
 *.webfarmer.nl
 *.webfg.ch
-*.webflow.com
-*.webflow.io
 *.webgains.com
 *.webgains.io
 *.webgains.link
@@ -53928,14 +53890,10 @@ tracking.*
 *.wittilyfrogleg.com
 *.wittycookie.ca
 *.wiwibet9ja.com
-*.wix.com
 *.wixanswers.com
 *.wixapps.net
 *.wixmp.com
 *.wixnm.com
-*.wixpress.com
-*.wixsites.com
-*.wixstatic.com
 *.wizaly.com
 *.wizbii.com
 *.wizerunek-odkryty.eu
@@ -54096,7 +54054,6 @@ tracking.*
 *.wordlift.io
 *.wordofshout.com
 *.wordprax.com
-*.wordpress.com
 *.wordsandpictures.net
 *.wordscloud.in
 *.wordsoutpr.com
@@ -54194,7 +54151,6 @@ tracking.*
 *.wpcdn.pl
 *.wpcheap.net
 *.wpdesigns.live
-*.wpengine.com
 *.wpeproxy.com
 *.wpfc.ml
 *.wpguynews.com
