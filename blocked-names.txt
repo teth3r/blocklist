@@ -54147,7 +54147,6 @@ tracking.*
 *.wp-pl.tech
 *.wp-poczta.pl
 *.wp-stats.com
-*.wp.com
 *.wp.pl
 *.wpadmngr.com
 *.wpasekilastekno.com
