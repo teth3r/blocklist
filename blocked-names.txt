@@ -2344,18 +2344,8 @@ tracking.*
 *.adnxtr.com
 *.adnz.co
 *.adobe-flashplayer.com
-*.adobe.com
-*.adobe.io
-*.adobe.net
 *.adobecqms.net
-*.adobedc.cn
-*.adobedc.net
-*.adobedtm.com
 *.adobeioruntime.net
-*.adobeoobe.com
-*.adoberesources.net
-*.adobetag.com
-*.adobetarget.com
 *.adocean.pl
 *.adoco.in
 *.adogain.com
@@ -8353,10 +8343,6 @@ tracking.*
 *.bindinc.nl
 *.bindrasolutions.com
 *.binette-et-jardin.com
-*.bing-app.org
-*.bing.com
-*.bing.net
-*.bingapis.com
 *.bingeflix.xyz
 *.binkies3d.com
 *.binmenkollast.com
@@ -41275,7 +41261,6 @@ tracking.*
 *.reactivpub.com
 *.reactjsexample.com
 *.reactorkc.com
-*.reactos.org
 *.reactx.com
 *.readcomiconline.com
 *.readgoldfish.com
@@ -49016,6 +49001,7 @@ tracking.*
 *.thr43-h.cfd
 *.thrdscreative.com
 *.threadloom.com
+*.threads.com
 *.threads.net
 *.threatpost.com
 *.three-coloreducation.com
