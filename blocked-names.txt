@@ -22995,6 +22995,9 @@ tracking.*
 *.hardcoreconservatives.com
 *.hardcrackers.com
 *.hardenize.com
+*.hardlightdev.com
+*.hardlightgames.com
+*.hardlightcdn.com
 *.hardlysquare.com
 *.hardtofindmilk.com
 *.hardwo.com
@@ -38058,6 +38061,7 @@ tracking.*
 *.pigtre.com
 *.piieenadzee-tutaaj.top
 *.pijamasurf.com
+*.pikpok.com
 *.pikabu.ru
 *.pikkasrv.com
 *.pikle.buzz
@@ -43520,6 +43524,7 @@ tracking.*
 *.security16.com
 *.security60-e.com
 *.securityaffairs.co
+*.sega.com
 *.seditio.ie
 *.sedo.com
 *.sedoparking.com
