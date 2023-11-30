@@ -20766,11 +20766,9 @@ tracking.*
 *.gamelopte.com
 *.gamemine.com
 *.gamemovie.net
-*.gamepressure.com
 *.gamepro.de
 *.gameprogrammingpatterns.com
 *.gamer-world.buzz
-*.gamersnexus.net
 *.gamerz123.com
 *.games-solution.com
 *.games-zakov.site
@@ -29642,7 +29640,6 @@ tracking.*
 *.lbest.com
 *.lbn.ru
 *.lbrbm.com
-*.lbry.com
 *.lbtp88.com
 *.lbz.agency
 *.lc.nl
@@ -35816,8 +35813,6 @@ tracking.*
 *.odp4pro.com
 *.odpfourpro.com
 *.odstraszacz-szkodnikow-pl.com
-*.odycdn.com
-*.odysee.com
 *.odysseuslibre.be
 *.odyssey-solution.com
 *.oe-d4-g.cfd
@@ -43524,7 +43519,6 @@ tracking.*
 *.security16.com
 *.security60-e.com
 *.securityaffairs.co
-*.sega.com
 *.seditio.ie
 *.sedo.com
 *.sedoparking.com
