@@ -20,8 +20,6 @@ Hardened config and blocklist for [dnscrypt-proxy](https://github.com/DNSCrypt/d
 
 - `require_nofilter = true` (Require resolvers that don't enforce their own blocklist)
 
-- `force_tcp = true` (Always use TCP instead of UDP to connect to upstream resolvers)
-
 - `log_level = 0` (Enable verbose logging)
 
 - `dnscrypt_ephemeral_keys = true` (Creates a new, unique key for every single DNS query)
