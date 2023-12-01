@@ -3439,7 +3439,6 @@ tracking.*
 *.airrobe.com
 *.airsupplycomms.com
 *.airtable.com
-*.airtel.com
 *.airtime.pro
 *.airtory.com
 *.airtrfx.com
@@ -6688,7 +6687,6 @@ tracking.*
 *.azwebdesign.com
 *.b-berry.pt
 *.b-bets.com
-*.b-cdn.net
 *.b-comi.jp
 *.b-lineimc.com
 *.b-ofsun.xyz
@@ -10195,11 +10193,6 @@ tracking.*
 *.bundleb2b.net
 *.bung.ie
 *.bungaweb.com
-*.bungie.net
-*.bunny-net.com
-*.bunny.net
-*.bunnycdn.com
-*.bunnycdn.ru
 *.bunnyflixmedias.com
 *.bunnyinfra.net
 *.bunnymediaserver.com
@@ -13664,8 +13657,6 @@ tracking.*
 *.corcreativegroup.com
 *.corddigital.com
 *.corderoanddavenport.com
-*.cordial.com
-*.cordial.io
 *.cordlessmedia.com
 *.cordonmedia.com
 *.cordovan.se
@@ -33808,8 +33799,6 @@ tracking.*
 *.mtg-api.com
 *.mtiit.com
 *.mtlbigger.com
-*.mtn.ng
-*.mtnonline.com
 *.mtrack.nl
 *.mtree.com
 *.mtruyen18.com
@@ -50961,7 +50950,6 @@ tracking.*
 *.unomaisbrand.com
 *.unostiposduros.com
 *.unpadgroup.com
-*.unpkg.com
 *.unpred.com
 *.unrelenting.show
 *.unrollthread.com
