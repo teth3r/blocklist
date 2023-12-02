@@ -21152,7 +21152,6 @@ tracking.*
 *.getels.com
 *.getemtiger.com
 *.geteventviewer.com
-*.getfedora.org
 *.getfivenow.com
 *.getflowbox.com
 *.getfoundeugene.com
@@ -30220,8 +30219,6 @@ tracking.*
 *.linnihanfoy.com
 *.linoxide.com
 *.linucon.org
-*.linustechtips.com
-*.linuxize.com
 *.lio-backend.com
 *.lionblades.com
 *.lionfuse.com
@@ -34518,7 +34515,6 @@ tracking.*
 *.nestbenk-pl.online
 *.nestbenk-pl.xyz
 *.nestelend.com
-*.nestle.com
 *.net-closure.com
 *.net-filter.com
 *.net-okey.com
@@ -41485,7 +41481,6 @@ tracking.*
 *.redfastlabs.com
 *.redflagnews.com
 *.redgifs.com
-*.redhat.com
 *.redheadlabs.com
 *.redhotjoe.com
 *.redhouseb2b.com
