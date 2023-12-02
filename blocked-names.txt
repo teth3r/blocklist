@@ -15267,7 +15267,6 @@ tracking.*
 *.deer-stealer.sbs
 *.deeterusa.com
 *.deewansturacin.com
-*.deezer.com
 *.defactosmartreach.de
 *.defaultblue.com
 *.defdesignsllc.com
@@ -16937,7 +16936,6 @@ tracking.*
 *.dyve.jp
 *.dz-linkk.com
 *.dz4link.com
-*.dzcdn.net
 *.dzhuraproduction.com
 *.dzial-bezpieczenstwa.space
 *.dzielmy-sie.club
@@ -24923,8 +24921,6 @@ tracking.*
 *.img-urlm.com
 *.img001.com
 *.img24.org
-*.imgaa.com
-*.imgbb.com
 *.imgblue.com
 *.imgbox.com
 *.imgcomplete.com
@@ -37570,8 +37566,6 @@ tracking.*
 *.people-health.space
 *.people-hub-zero.com
 *.people-talk.space
-*.people.cl
-*.people.com
 *.peoplewhothink.com
 *.peperosaristorante.de
 *.peperosso.tv
@@ -52393,11 +52387,8 @@ tracking.*
 *.voting-xrp.net
 *.votov1ewed13.sbs
 *.votre-cle-digitale-bnpparibas.fr
-*.vox-cdn.com
 *.voxcommercio.com
 *.voxed.my
-*.voxglobal.com
-*.voxmedia.com
 *.voxymarketing.com
 *.voyacollective.com
 *.voyado.com
