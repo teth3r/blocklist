@@ -17279,8 +17279,6 @@ tracking.*
 *.edelsbacher.com
 *.edfloreshz.dev
 *.edgar2al2larngpoer.com
-*.edgecastcdn.net
-*.edgecdn.ru
 *.edgecreativegroup.com
 *.edgedigital.ca
 *.edgeflow-cz.site
@@ -37096,7 +37094,6 @@ tracking.*
 *.page-inform.xyz
 *.page-x.com
 *.page.agency
-*.page.link
 *.page1ranks.com
 *.page68.xyz
 *.page89.xyz
