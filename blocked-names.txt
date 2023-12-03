@@ -5818,7 +5818,6 @@ tracking.*
 *.audent.io
 *.audi.com
 *.audibene.net
-*.audible.com
 *.audience-engine-sink-backend.com
 *.audience.media
 *.audience2media.com
@@ -5853,7 +5852,6 @@ tracking.*
 *.audiopulsar.com
 *.audiores365.com
 *.audiosciencereview.com
-*.audioscrobbler.com
 *.audiosolace.com
 *.audiosuffer.com
 *.auditny.com
@@ -29519,7 +29517,6 @@ tracking.*
 *.lasportiva-polska.com
 *.lassomarketing.io
 *.last-chainleash.net
-*.last.fm
 *.lastampa.it
 *.lastminute.com
 *.latapacrea.com
