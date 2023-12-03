@@ -9339,7 +9339,6 @@ tracking.*
 *.bootsoc.in
 *.bootsroad.com
 *.bootsstation-reiherhals.de
-*.bootstrapcdn.com
 *.bootstrapious.com
 *.booxscale.com
 *.boozt.la
