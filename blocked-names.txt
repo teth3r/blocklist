@@ -18,7 +18,6 @@ tracking.*
 *dogfartnetwork*
 *facebook*
 *getitright*
-*google*
 *hentai*
 *instagram*
 *kisstvshow*
@@ -21883,7 +21882,6 @@ tracking.*
 *.googgg.com
 *.googil.com
 *.googl.com
-*.google
 *.google-analytics.com
 *.google-deckoffice.ml
 *.google-docs.org
@@ -47492,7 +47490,6 @@ tracking.*
 *.tattvads.com
 *.tatumdesign.com
 *.tatvikayurveda.com
-*.taucdn.net
 *.taur-on24.top
 *.tauron-investments.com
 *.tauron1.pl
