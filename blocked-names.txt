@@ -28,26 +28,6 @@ tracking.*
 *spankcdn*
 *xnxx*
 *youtube*
-*.whatsnew247.net
-*.refpabuyoj.top
-*.gamescdnfor.com
-*.batataslavify.guru
-*.paulusacor.uno
-*.reevevessels.website
-*.guidebichhir.website
-*.cdn.staticmoly.me
-*.baniyasquibs.space
-*.chunysorance.space
-*.funoriblithe.space
-*.vidmoly.to
-*.mayorhotdogs.uno
-*.sicebawties.digital
-*.viewyentreat.guru
-*.homierceston.top
-*.lazmblmywqkz.top
-*.mangoalmahs.com
-*.kisstvshow.to
-*.kisstvshow.li
 *.007angels.com
 *.007milf.com
 *.007zeed.com
@@ -61,7 +41,6 @@ tracking.*
 *.051pro.com
 *.069porn.com
 *.0711.net
-*.07c225f3.online
 *.081xxx.com
 *.0930.nl
 *.0cf.io
@@ -4790,7 +4769,6 @@ tracking.*
 *.app-spm.com
 *.app-us1.com
 *.app-wallee.com
-*.app.link
 *.app567lives.com
 *.app611.net
 *.apparatusmarketing.com
@@ -7025,6 +7003,7 @@ tracking.*
 *.banhtrangthitheophucuong.vn
 *.bania-hotel.com
 *.banik.com
+*.baniyasquibs.space
 *.bank-expresse-finance.com
 *.bank-online.ml
 *.bankert.ca
@@ -7176,6 +7155,7 @@ tracking.*
 *.bastingestival.com
 *.bat-bet.com
 *.bat.agency
+*.batataslavify.guru
 *.batbuilding.com
 *.batch-media.de
 *.batch-offers.com
@@ -10388,8 +10368,11 @@ tracking.*
 *.bydata.com
 *.bydesigned.com
 *.byer.co
+*.byet.host
+*.byethost.com
 *.byethost32.com
 *.byethost6.com
+*.byethost7.com
 *.byfen.com
 *.byffbb.com
 *.byjus.com
@@ -11318,6 +11301,7 @@ tracking.*
 *.cdn.li
 *.cdn.live
 *.cdn.ski
+*.cdn.staticmoly.me
 *.cdn01.ru
 *.cdn1.org
 *.cdn107.com
@@ -11393,8 +11377,6 @@ tracking.*
 *.cdnplus.de
 *.cdnppb.net
 *.cdnprado.net
-*.cdnpure.com
-*.cdnpure.net
 *.cdnpv.com
 *.cdnquality.com
 *.cdnregion.com
@@ -12093,6 +12075,7 @@ tracking.*
 *.chumneyads.com
 *.chunavparchar.com
 *.chunk.nl
+*.chunysorance.space
 *.chupacabras100kms.com
 *.churay-development.com
 *.churchcenter.com
@@ -18505,6 +18488,7 @@ tracking.*
 *.examcenter4you.com
 *.examkhata.com
 *.example.com
+*.example.net
 *.example.org
 *.example12345.com
 *.exams4pleexperience.website
@@ -20485,6 +20469,7 @@ tracking.*
 *.funnelfitagency.com
 *.funnelytics.io
 *.funnyairplane.com
+*.funoriblithe.space
 *.funtructuyen88.com
 *.funzitechsolutions.net
 *.fuor.com
@@ -20745,6 +20730,7 @@ tracking.*
 *.games-solution.com
 *.games-zakov.site
 *.games4u.ws
+*.gamescdnfor.com
 *.gamesight.io
 *.gamesites100.net
 *.gamesites200.com
@@ -21836,7 +21822,6 @@ tracking.*
 *.gonutritionhub.com
 *.gonzalezmarketing.com
 *.gonzobox.com
-*.goog.le
 *.goo.gl
 *.goo.gle
 *.goockle.com
@@ -21878,6 +21863,7 @@ tracking.*
 *.goodwill-lion.com
 *.goodwin-idea.com
 *.goog-analytic.com
+*.goog.le
 *.googel.com
 *.googgg.com
 *.googil.com
@@ -22664,6 +22650,7 @@ tracking.*
 *.guidants.com
 *.guide-pl.site
 *.guide2poker.com
+*.guidebichhir.website
 *.guidestar.org
 *.guidle.com
 *.guildcreative.com
@@ -22964,9 +22951,9 @@ tracking.*
 *.hardcoreconservatives.com
 *.hardcrackers.com
 *.hardenize.com
+*.hardlightcdn.com
 *.hardlightdev.com
 *.hardlightgames.com
-*.hardlightcdn.com
 *.hardlysquare.com
 *.hardtofindmilk.com
 *.hardwo.com
@@ -23736,6 +23723,7 @@ tracking.*
 *.hometownlondon.com
 *.hometownmediasolutions.com
 *.hometownseostore.com
+*.homierceston.top
 *.hommmaq.com
 *.homo-xxx.ru
 *.honansechoize.com
@@ -24683,6 +24671,7 @@ tracking.*
 *.ifacilitysoftware.com
 *.ifactory.ca
 *.ifamnews.com
+*.ifastnet.com
 *.ifbut.com
 *.ife9-34kf.cfd
 *.iffelinternational.com
@@ -28735,6 +28724,8 @@ tracking.*
 *.kissmetrics.com
 *.kissmetrics.io
 *.kissnofrog.com
+*.kisstvshow.li
+*.kisstvshow.to
 *.kitana-lure.ru
 *.kitbit.net
 *.kitchandschreiber.com
@@ -29604,6 +29595,7 @@ tracking.*
 *.layouthub.com
 *.layt0n.com
 *.lazar-offers.com
+*.lazmblmywqkz.top
 *.lazybear.io
 *.lbest.com
 *.lbn.ru
@@ -31407,6 +31399,7 @@ tracking.*
 *.mangar18.com
 *.mango--polska.pl
 *.mangoadvt.com
+*.mangoalmahs.com
 *.mangopublic.com
 *.mangos.agency
 *.mangrove.com
@@ -31958,6 +31951,7 @@ tracking.*
 *.mayecreate.com
 *.mayermccann.com
 *.maymooth-stopic.com
+*.mayorhotdogs.uno
 *.maystreet.agency
 *.maytrics.com
 *.mazarine.com
@@ -37368,6 +37362,7 @@ tracking.*
 *.paulsenit.no
 *.paulsvalleydailydemocrat.com
 *.paulus-kirchengemeinde-tempelhof.de
+*.paulusacor.uno
 *.paureeshsurvey.top
 *.pautadigital.mx
 *.pauza.ba
@@ -38007,11 +38002,11 @@ tracking.*
 *.pigtre.com
 *.piieenadzee-tutaaj.top
 *.pijamasurf.com
-*.pikpok.com
 *.pikabu.ru
 *.pikkasrv.com
 *.pikle.buzz
 *.pikopong.com
+*.pikpok.com
 *.piksel.mk
 *.pilaffskoniga.com
 *.pilanddesign.com
@@ -38176,6 +38171,7 @@ tracking.*
 *.pk0-pl.online
 *.pkao24.com
 *.pkg.org
+*.pki.goog
 *.pkmdesigns.com
 *.pko-bp.pl
 *.pko-polski.com
@@ -41577,6 +41573,7 @@ tracking.*
 *.reelsmart.co
 *.reemo-ad.jp
 *.rees46.com
+*.reevevessels.website
 *.reevoo.com
 *.reezalt.com
 *.referdriving.com
@@ -41597,6 +41594,7 @@ tracking.*
 *.refocusmedia.com
 *.refokus.io
 *.reformationproductions.com
+*.refpabuyoj.top
 *.refpamjeql.top
 *.refpaydc.top
 *.refractivemarketing.com
@@ -42441,7 +42439,6 @@ tracking.*
 *.rotarb.bid
 *.rothco.ie
 *.rotlichtmodelle.de
-*.rottentomatoes.com
 *.roty-dioraem.pro
 *.rouge-escort.com
 *.roughroll.com
@@ -44495,6 +44492,7 @@ tracking.*
 *.sibforms.com
 *.siblingagency.com
 *.siccardidesign.com
+*.sicebawties.digital
 *.sicherheit-versand.de
 *.sick-r.com
 *.sicksmash.com
@@ -45932,7 +45930,6 @@ tracking.*
 *.squareonebranding.com
 *.squarespotdesign.com
 *.squareup.com
-*.squarewebsites.org
 *.squarred.xyz
 *.squatny.com
 *.squeamishscarecrow.com
@@ -51302,7 +51299,6 @@ tracking.*
 *.v-mate.mobi
 *.v-vegas.website
 *.v-wrd.com
-*.v0cdn.net
 *.v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 *.v0r.org
 *.v1-netflix.pl
@@ -51808,6 +51804,7 @@ tracking.*
 *.vidissimo.net
 *.vidmo.org
 *.vidmo.pro
+*.vidmoly.to
 *.vidoomy.com
 *.vidora.com
 *.vids4tube.com
@@ -51873,6 +51870,7 @@ tracking.*
 *.viewit-studio.com
 *.views1pl.site
 *.viewst.com
+*.viewyentreat.guru
 *.vigilantcitizen.com
 *.viglink.com
 *.vigorbranding.com
@@ -53514,6 +53512,7 @@ tracking.*
 *.whatsapp-app.com
 *.whatshappeningpromotions.com
 *.whatsinaname.in
+*.whatsnew247.net
 *.whatsthe-trend.com
 *.whattodomedia.com
 *.whattopack.com
@@ -55177,7 +55176,6 @@ tracking.*
 *.yasexme1.top
 *.yashi.com
 *.yasss.es
-*.yastatic.net
 *.yat.agency
 *.yawave.com
 *.yawcoynag.com
