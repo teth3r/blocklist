@@ -12169,7 +12169,6 @@ tracking.*
 *.cirkleinc.com
 *.cirrusvisual.com
 *.cisco-analytics.com
-*.cisco.com
 *.cismocorporation.com
 *.cisnerosdesign.com
 *.cisnerostreecare.com
@@ -40918,7 +40917,6 @@ tracking.*
 *.racefans.net
 *.rachelgreenhouse.com
 *.rachelnicolesmith.com
-*.rackcdn.com
 *.rackspace.com
 *.rad1an48to.xyz
 *.radarbox.com
