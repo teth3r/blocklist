@@ -847,7 +847,6 @@ tracking.*
 *.40svintageporn.com
 *.41-29.com
 *.417marketing.com
-*.420chan.org
 *.429tube.com
 *.42digital.de
 *.42videoxxx.com
@@ -1094,7 +1093,6 @@ tracking.*
 *.7bpeople.com
 *.7bridgesmarketing.com
 *.7ca78m3csgbrid7ge.com
-*.7chan.org
 *.7dak-com.ru
 *.7dak.com
 *.7daysporn.com
@@ -1449,8 +1447,6 @@ tracking.*
 *.abdonit24.com
 *.abdullahdigitals.com
 *.abe.ai
-*.abebooks.com
-*.abebookscdn.com
 *.abeille-assurances.fr
 *.abeldanger.net
 *.abeletbellina.be
@@ -7048,6 +7044,7 @@ tracking.*
 *.bannery.cz
 *.banno.com
 *.banowetz.com
+*.banquetunarmedgrater.com
 *.bant.io
 *.banta.co
 *.banterx.com
@@ -8327,9 +8324,6 @@ tracking.*
 *.binan-invest.pl
 *.binance-entry.com
 *.binance.charity
-*.binance.com
-*.binance.org
-*.binance.us
 *.binance.vision
 *.binaria.com
 *.binary.digital
@@ -9162,7 +9156,6 @@ tracking.*
 *.bolrookr.com
 *.bolsamania.com
 *.bolsasymercados.es
-*.bolt.com
 *.boltadvertising.com
 *.boltdns.net
 *.bolttk.com
@@ -13454,6 +13447,7 @@ tracking.*
 *.contractordynamics.com
 *.contraelborradodelasmujeres.org
 *.contrapuntobbdo.es
+*.contrarymeeting.com
 *.contrast-b.online
 *.contrast-b.store
 *.contrast-best.site
@@ -14649,6 +14643,7 @@ tracking.*
 *.cyberciti.biz
 *.cybercomputers.de
 *.cyberghost.app
+*.cyberleninka.ru
 *.cyberport.de
 *.cyberq-legit.com
 *.cybersecurity360.it
@@ -18976,9 +18971,8 @@ tracking.*
 *.fastkitpack.com
 *.fastly-insights.com
 *.fastmoney777.click
-*.fastpic.org
-*.fastpic.ru
 *.fasts-downloads.com
+*.fastsafelink.com
 *.fasttractionmarketing.com
 *.fastweb.media
 *.fat-mature.com
@@ -19404,6 +19398,7 @@ tracking.*
 *.financebycwt.com
 *.financeflix.in
 *.financefusion360.online
+*.financeritual.com
 *.financesonline.com
 *.financetrader24.com
 *.financial-freedom.xyz
@@ -19649,6 +19644,7 @@ tracking.*
 *.flexible-girls.com
 *.flexiti.fi
 *.flexitive.com
+*.flibusta.net
 *.flickr.com
 *.flightcdn.com
 *.flii.nl
@@ -20353,6 +20349,7 @@ tracking.*
 *.fssglobal.in
 *.fstatic.nl
 *.fstats.xyz
+*.fstsrv6.com
 *.fsu.fr
 *.ftcdn.net
 *.ftd.agency
@@ -21855,7 +21852,6 @@ tracking.*
 *.goodmates.de
 *.goodmedia.md
 *.goodmondayproductions.com
-*.goodreads.com
 *.goods0pay.xyz
 *.goods2you.net
 *.goodsoupcreative.com
@@ -29402,7 +29398,6 @@ tracking.*
 *.lagrm.org
 *.laguardiabrothers.com
 *.lahuashanbx.com
-*.lainchan.org
 *.laingriz15.live
 *.laislaagency.com
 *.lakadv.com
@@ -31242,7 +31237,6 @@ tracking.*
 *.magyar-szex.hu
 *.magyar-szexvideok.hu
 *.magybu.net
-*.magzdb.org
 *.maheir-com.ru
 *.mahimeta.com
 *.mahlkunst.com
@@ -32278,7 +32272,6 @@ tracking.*
 *.mediavoice.com
 *.mediawallah.com
 *.mediawallahscript.com
-*.mediawiki.org
 *.mediawire.in
 *.mediazs.com
 *.medical-library.org
@@ -35145,6 +35138,7 @@ tracking.*
 *.nlamedia.com
 *.nlcornhub.com
 *.nlo-games.com
+*.nlr.ru
 *.nmcomedia.com
 *.nmd.dk
 *.nmgnetwork.com
@@ -35274,6 +35268,7 @@ tracking.*
 *.norient.com
 *.norma-ai.com
 *.normal-strength.com
+*.normallyretrieveapocalypse.com
 *.norsk-tipping.no
 *.north-club.info
 *.north.com
@@ -36421,7 +36416,6 @@ tracking.*
 *.openfpcdn.io
 *.openfunds2023.lol
 *.opengamingnetwork.com
-*.openh264.org
 *.openhandmedia.org
 *.openinstall.io
 *.openmygame.com
@@ -36436,7 +36430,6 @@ tracking.*
 *.opentech.com
 *.opentok.com
 *.opentype.info
-*.openweathermap.org
 *.openx.com
 *.openx.net
 *.openxcdn.net
@@ -36773,7 +36766,6 @@ tracking.*
 *.oskiwood.com
 *.oskoui-oskoui.com
 *.oskyblue.com
-*.osm.org
 *.osmanolmez.com
 *.osor3rlry5tx8675.com
 *.ossamedia.com
@@ -38012,6 +38004,7 @@ tracking.*
 *.pilanddesign.com
 *.pilassociati.it
 *.pilcrazzo52.site
+*.pilimi.org
 *.pillarbrands.com
 *.pilot.de
 *.pilotbrandesign.ca
@@ -38022,7 +38015,6 @@ tracking.*
 *.pimproll.com
 *.pin-up-angels.net
 *.pinagency.com
-*.pinata.cloud
 *.pinch-brand.online
 *.pinchforth.com
 *.pinckneymarketing.com
@@ -39069,7 +39061,6 @@ tracking.*
 *.polvo-de-estrellas.com
 *.polvoraadvertising.com
 *.polydea.com
-*.polyfill.io
 *.polygon-rpc.com
 *.polygraphmedia.com
 *.pomagamy-jaworzno.pl
@@ -39971,6 +39962,7 @@ tracking.*
 *.profteam-pl.autos
 *.profteam-pl.homes
 *.profteam-pl.live
+*.proftrafficcounter.com
 *.profusesupport.com
 *.prog-news.cloud
 *.progettazione-integrata.it
@@ -41729,13 +41721,10 @@ tracking.*
 *.rentapart24.com
 *.rentio.jp
 *.rep-sms.pw
-*.repainter.app
-*.repair.org
 *.repeatsweater.com
 *.repinteractive.com
 *.repixel.co
 *.replaye.in
-*.replicant.us
 *.replocal.com
 *.repoor1ting.site
 *.report-uri.com
@@ -42527,6 +42516,7 @@ tracking.*
 *.rs6.net
 *.rsbnetwork.com
 *.rsbsolutionsllc.com
+*.rsl.ry
 *.rsm-agency.com
 *.rsmconnect.com
 *.rsms.me
@@ -43444,6 +43434,7 @@ tracking.*
 *.securecloud-smart.com
 *.securedataimages.com
 *.securedopen-bp.com
+*.securedsafelink.com
 *.securedserver2020.com
 *.securedtouch.com
 *.securedvisit.com
@@ -44632,7 +44623,6 @@ tracking.*
 *.simplyflynow.com
 *.simplysearched.com
 *.simplytics.com
-*.simplytranslate.org
 *.simpol-lab.com
 *.simuland.net
 *.simurgarts.com
@@ -45028,6 +45018,7 @@ tracking.*
 *.smartcanvas.net
 *.smartchameleon.top
 *.smartclickad.com
+*.smartclickflow.com
 *.smartclip.com
 *.smartclip.net
 *.smartcomcorp.com
@@ -45528,7 +45519,6 @@ tracking.*
 *.sourcenext.com
 *.sourceonetech.com
 *.sourcesoftware.net
-*.sourceware.org
 *.sous-le-soleil.com
 *.southeastmediatexas.com
 *.southendmedia.com
@@ -46671,6 +46661,7 @@ tracking.*
 *.successful-registration.art
 *.successful-sites.com
 *.successfulmarketinggroup.com
+*.successionsnapteenagers.com
 *.successmakers.net
 *.successmarketingnow.com
 *.suche-eine-frau.com
@@ -48608,7 +48599,6 @@ tracking.*
 *.thephoenixgroup.ca
 *.thephotoforum.com
 *.thepinkcollective.com
-*.thepiratebay.org
 *.thepitchagency.com
 *.thepittgroup.com
 *.thepixelpantry.com
@@ -49004,6 +48994,7 @@ tracking.*
 *.threerooms.com
 *.threesixtyeight.com
 *.thrill3hall.online
+*.thrilloffer.com
 *.thrivcreative.com
 *.thrive-agency.co
 *.thrive.today
@@ -49273,7 +49264,6 @@ tracking.*
 *.tmbpartners.com
 *.tmc-partnership.com
 *.tmconst.com
-*.tmdb.org
 *.tmdcreative.com
 *.tmdmalvern.com
 *.tmdn.org
@@ -50178,7 +50168,6 @@ tracking.*
 *.trustpilot.com
 *.trustprofile.com
 *.trustspot.io
-*.trustwallet.com
 *.trustwave.com
 *.trustx.org
 *.trustyou.com
@@ -50655,7 +50644,6 @@ tracking.*
 *.ubank-appweb.com
 *.ubcserver.com
 *.ubembed.com
-*.uber.com
 *.uberagency.com
 *.ubereats.com
 *.uberflip.com
@@ -50671,7 +50659,6 @@ tracking.*
 *.ubrand.sa
 *.ubuntu-de.org
 *.ubuntu-fr.fr
-*.ubuntu.com
 *.ubuy.com
 *.uc8.tv
 *.uccessfullyd.xyz
@@ -51682,7 +51669,6 @@ tracking.*
 *.vh79.com
 *.vhcl.co
 *.vhorizads.com
-*.vhschan.org
 *.vhwmcs.net
 *.vhwrz.net
 *.vi-2rant.live
@@ -52638,7 +52624,6 @@ tracking.*
 *.w8n7.uno
 *.w92oa.com
 *.wa-track.com
-*.wa.me
 *.waardex.com
 *.waays.eu
 *.waaytv.com
@@ -54048,7 +54033,6 @@ tracking.*
 *.world3d.biz
 *.world4angelina.com
 *.worldappsstore.xyz
-*.worldcat.org
 *.worldcentre.com
 *.worldcryptonetwork.com
 *.worlddoctorsalliance.com
@@ -54176,6 +54160,7 @@ tracking.*
 *.wsadvantage.com
 *.wsav.com
 *.wsbusinessinc.com
+*.wsecurely.com
 *.wsiaimhigh.com
 *.wsialm.com
 *.wsiconnect.com
