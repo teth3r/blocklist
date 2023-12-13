@@ -12042,7 +12042,6 @@ tracking.*
 *.chromebook.com
 *.chromeexperiments.com
 *.chromeleads.com
-*.chromium.org
 *.chromiumbranding.com
 *.chron-telefon.com
 *.chronicle.su
@@ -15760,7 +15759,6 @@ tracking.*
 *.digiaccess.org
 *.digiastrum.com
 *.digible.com
-*.digicert.com
 *.digicomfy.com
 *.digidarwaza.in
 *.digiday.com
@@ -16100,6 +16098,10 @@ tracking.*
 *.disploot.com
 *.dispruptive.com
 *.disqover.agency
+*.disqus.com
+*.disqus.net
+*.disqus-cdn.com
+*.disquscdn.com
 *.disqusads.com
 *.disrcod-drop.com
 *.disrootaffa.com
@@ -29786,7 +29788,6 @@ tracking.*
 *.lemonpi.io
 *.lemonscentedtea.com
 *.lenati.com
-*.lencr.org
 *.lendgo.com
 *.lending-for-europe.eu
 *.lendingtree.com
@@ -41325,6 +41326,7 @@ tracking.*
 *.rebuyengine.com
 *.rec-alegr.info
 *.rec-tube.com
+*.recaptcha.com
 *.recaptcha.net
 *.recapture.io
 *.reception-desk.net
