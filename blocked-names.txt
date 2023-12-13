@@ -6091,7 +6091,6 @@ tracking.*
 *.auta-zoltek.pl
 *.auth-cyber.com
 *.auth-google.site
-*.auth0.com
 *.authentic8advertising.com
 *.authenticated-origin.com
 *.authentification-assist.com
@@ -32292,7 +32291,6 @@ tracking.*
 *.medinacom.com
 *.mediocrecreative.com
 *.medipost.org
-*.medium.com
 *.medium.systems
 *.mediumfishnm.com
 *.mediumfour.com
