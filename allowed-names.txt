@@ -6,20 +6,6 @@
 =download.dnscrypt.info
 =ipv6.download.dnscrypt.info
 #--------------------------------------------------------------
-# Googlesource
-#--------------------------------------------------------------
-*.googlesource.com
-lh[0-9]*.googleusercontent.com
-=www.gstatic.com
-=fonts.gstatic.com
-=gstatic.com
-#--------------------------------------------------------------
-# Googleapis
-#--------------------------------------------------------------
-=fonts.googleapis.com
-=ajax.googleapis.com
-=storage.googleapis.com
-#--------------------------------------------------------------
 # Firefox addons
 #--------------------------------------------------------------
 =addons.mozilla.org
