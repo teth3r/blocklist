@@ -15,6 +15,7 @@ tracking.*
 *bet9ja*
 *betano*
 *coomer*
+*crashlytics*
 *dogfartnetwork*
 *facebook*
 *getitright*
@@ -27,6 +28,7 @@ tracking.*
 *scientology*
 *spankcdn*
 *xnxx*
+*userlocation*
 *youtube*
 *.007angels.com
 *.007milf.com
@@ -3023,6 +3025,7 @@ tracking.*
 *.af-110.com
 *.af-luxury.com
 *.af-mark.jp
+*.af247loc.com
 *.afa.net
 *.afac-ma.com
 *.afallen.cymru
@@ -4557,6 +4560,7 @@ tracking.*
 *.anson-stoner.com
 *.ansteyhodge.com
 *.anstrex.com
+*.ansuhost.com
 *.answerbase.com
 *.answerdash.com
 *.answering-islam.org
@@ -5470,6 +5474,7 @@ tracking.*
 *.astutebot.com
 *.astuteknowledge.com
 *.asurion53.com
+*.asurionsetup.com
 *.aswpapius.com
 *.aswpsdkeu.com
 *.aswpsdkus.com
@@ -16098,11 +16103,11 @@ tracking.*
 *.disploot.com
 *.dispruptive.com
 *.disqover.agency
+*.disqus-cdn.com
 *.disqus.com
 *.disqus.net
-*.disqus-cdn.com
-*.disquscdn.com
 *.disqusads.com
+*.disquscdn.com
 *.disrcod-drop.com
 *.disrootaffa.com
 *.disruptingads.com
@@ -17882,6 +17887,7 @@ tracking.*
 *.enroutecommunications.com
 *.ensembleconsultancy.com
 *.ensighten.com
+*.ensignlms.net
 *.ensinger964.site
 *.enso-consulting.de
 *.enso.co
@@ -19484,6 +19490,7 @@ tracking.*
 *.fireflynewmedia.com
 *.firefox-updater.com
 *.firefox.com
+*.firefox.net
 *.firefoxflicks.com
 *.firehouse.agency
 *.fireincatlanta.com
@@ -20023,6 +20030,7 @@ tracking.*
 *.foxpublication.com
 *.foxpush.com
 *.foxpush.net
+*.foxtollsandfines.com
 *.foxwebcreations.com
 *.foxwebvision.com
 *.foxx.ca
@@ -20626,6 +20634,7 @@ tracking.*
 *.gad-lx.com
 *.gadgetofficials.com
 *.gadgetsearcher.com
+*.gadps-eports.net
 *.gads-toro.com
 *.gadsabs.com
 *.gadsbee.com
@@ -22061,7 +22070,6 @@ tracking.*
 *.google3333.com
 *.googleadservices.com
 *.googleanalytics.com
-*.googleapis.com
 *.googleapps.com
 *.googlearth.com
 *.googlecapital.com
@@ -22078,14 +22086,12 @@ tracking.*
 *.googlepagecreator.com
 *.googlescholar.com
 *.googlesciencefair.com
-*.googlesource.com
 *.googlesydication.com
 *.googlesyndication.com
 *.googletagmanager.com
 *.googletagservices.com
 *.googletranslate.com
 *.googletraveladservices.com
-*.googleusercontent.com
 *.googlevideo.com
 *.googlezip.net
 *.googlle.eu
@@ -22607,7 +22613,6 @@ tracking.*
 *.gsspat.jp
 *.gssprt.jp
 *.gstatic-node.io
-*.gstatic.com
 *.gstaticx.com
 *.gsu.edu
 *.gsu356.cfd
@@ -30483,6 +30488,7 @@ tracking.*
 *.localchildcaremarketing.com
 *.localesaftaba.com
 *.localeyemedia.com
+*.localflirt.com
 *.localglobal.com
 *.localh0st.info
 *.localhood.com
@@ -37332,6 +37338,7 @@ tracking.*
 *.pathmatics.com
 *.pathmotion.io
 *.patient-offers.com
+*.patientbillhelp.com
 *.patientmoon.com
 *.patientpower.info
 *.patondigitalmarketing.com
@@ -37727,7 +37734,6 @@ tracking.*
 *.phh.me
 *.phi.sa
 *.phialedamende.com
-*.phicdn.net
 *.phicmune.net
 *.phil-flash.com
 *.philipagnello.com
@@ -41718,6 +41724,7 @@ tracking.*
 *.rentalcars.com
 *.rentapart24.com
 *.rentio.jp
+*.rentmanager.com
 *.rep-sms.pw
 *.repeatsweater.com
 *.repinteractive.com
@@ -42597,6 +42604,7 @@ tracking.*
 *.rudyscommonsense.com
 *.ruf2z4emtvsj3bq.com
 *.ruftodru.net
+*.rugaetieback.com
 *.rugbyrama.fr
 *.ruggedcoastal.com
 *.rugtt9b4babpvg52.com
@@ -42818,6 +42826,7 @@ tracking.*
 *.saatchi.it
 *.saatec.de
 *.saavn.com
+*.sabacloud.com
 *.sabio.us
 *.sabiomobile.com
 *.sablesmile.com
@@ -43408,7 +43417,6 @@ tracking.*
 *.secretsushi.com
 *.secretweapon.net
 *.secruz.com
-*.sectigo.com
 *.section.io
 *.section80.tv
 *.sector-offers.com
@@ -43431,6 +43439,7 @@ tracking.*
 *.securebrowser.com
 *.securecloud-smart.com
 *.securedataimages.com
+*.securedentalpayments.com
 *.securedopen-bp.com
 *.securedsafelink.com
 *.securedserver2020.com
@@ -43564,6 +43573,7 @@ tracking.*
 *.sendfox.com
 *.sendiancreations.com
 *.sendinblue.com
+*.sendinfokit.com
 *.sending-cmc.com
 *.sending24odbierzsrodki.shop
 *.sendingproduct-08451.xyz
@@ -50349,6 +50359,8 @@ tracking.*
 *.tulos.fi
 *.tulsamarketingonline.com
 *.tumarketing.co
+*.tumblr.com
+*.tumblr.net
 *.tumedia.no
 *.tumi.com
 *.tumi.de
