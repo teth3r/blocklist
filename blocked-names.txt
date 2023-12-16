@@ -19,6 +19,7 @@ tracking.*
 *can-get-so*
 *coomer*
 *crashlytics*
+*d126kahie2ogx0*
 *dogfartnetwork*
 *domthing*
 *evecticvocoder*
@@ -14736,6 +14737,7 @@ tracking.*
 *.d0k1.com
 *.d0p21g2fep.com
 *.d1000etd100.com
+*.d126kahie2ogx0.cloudfront.net
 *.d1a.com
 *.d1g1marka.click
 *.d1g1plexa.sbs
