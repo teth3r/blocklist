@@ -18232,6 +18232,7 @@ tracking.*
 *.etcadvertising.com
 *.etch-creative.com
 *.etck-j4.buzz
+*.etere.com
 *.eterna.de
 *.eternal-dialogue.com
 *.eternal-media.com
@@ -22622,6 +22623,7 @@ tracking.*
 *.gtcreativedesigns.com
 *.gter-frodi.cloud
 *.gter-frodj.cloud
+*.gtf.pt
 *.gtlink.co
 *.gtranslate.io
 *.gtranslate.net
@@ -42740,6 +42742,7 @@ tracking.*
 *.s-o6.fun
 *.s-onetag.com
 *.s-pankki-logon.com
+*.s-samobranka.ru
 *.s0kn5.com
 *.s0lut10n.site
 *.s1-adfly.com
@@ -55152,6 +55155,10 @@ tracking.*
 *.yamagashi-city.xyz
 *.yameen.xyz
 *.yamstamp.com
+*.yandex.com
+*.yandex.md
+*.yandex.net
+*.yandex.ru
 *.yandexadexchange.net
 *.yandl.com
 *.yank.ag
@@ -55171,6 +55178,7 @@ tracking.*
 *.yasexme1.top
 *.yashi.com
 *.yasss.es
+*.yastatic.net
 *.yat.agency
 *.yawave.com
 *.yawcoynag.com
@@ -55669,6 +55677,7 @@ tracking.*
 *.zam.com
 *.zamawiaj-online.pl
 *.zamawiaj-taniej.pl
+*.zamba.top
 *.zambetpentruviitor.ro
 *.zambezi-la.com
 *.zamimg.com
