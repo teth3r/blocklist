@@ -16098,6 +16098,7 @@
 *.disrootaffa.com
 *.disruptingads.com
 *.disruptiveunicorns.com
+*.disshipbikinis.com
 *.distance.to
 *.distilled.net
 *.distillery.se
@@ -16850,7 +16851,6 @@
 *.dwgreen.com
 *.dwin1.com
 *.dwin2.com
-*.dwish.pro
 *.dx.no
 *.dxcdn.com
 *.dxcreativ.com
@@ -26623,6 +26623,7 @@
 *.jedoro-pl.homes
 *.jedrek831.pl
 *.jeejujou.net
+*.jeekomih.com
 *.jeeng.com
 *.jeewangarg.com
 *.jeffandersonconsulting.com
@@ -33864,6 +33865,7 @@
 *.mundpropaganda.de
 *.munich-callgirls.com
 *.munnrabot.com
+*.mupmxlqgsfilq.com
 *.muragetunnel.com
 *.murcia-ban.es
 *.murdochmarketing.com
@@ -37167,6 +37169,7 @@
 *.panama-me.com
 *.panama.de
 *.panamedia.me
+*.pananames.com
 *.panasonic.jp
 *.pancakeswap.com
 *.pancakeswap.finance
@@ -53954,6 +53957,7 @@
 *.wnww-roblox.com
 *.wo-cloud.com
 *.wo88.ac
+*.woaemnlf.com
 *.woafoame.net
 *.wobseo.com
 *.wocom.de
