@@ -9,26 +9,47 @@ tracking.*
 *1xbet*
 *adserve*
 *adservice*
+*alachahguidage*
 *analytics*
 *bangbros*
 *banner*
 *bet9ja*
 *betano*
+*can-get-so*
 *coomer*
 *crashlytics*
 *dogfartnetwork*
+*domthing*
+*evecticvocoder*
 *facebook*
 *getitright*
+*grtposh*
+*grunoaph*
+*hauchiwu*
 *hentai*
+*ibrapush*
 *instagram*
+*keapgypsite*
+*kissanime*
 *kisstvshow*
+*luckyforbet*
+*mdundo*
+*metorealiukz*
+*onseleauks*
 *phncdn*
+*playmovieevent*
 *pornhub*
+*resugovex*
+*resugovex-1*
 *rexporn*
 *scientology*
 *spankcdn*
-*xnxx*
+*suefourre*
+*thetchaixoo*
+*treitrehagdin*
 *userlocation*
+*vidstreams*
+*xnxx*
 *youtube*
 *.007angels.com
 *.007milf.com
@@ -3515,6 +3536,7 @@ tracking.*
 *.alaaddin-tr.com
 *.alabama.gov
 *.alabshar.com
+*.alachahguidage.com
 *.aladv.com
 *.alafdigital.com
 *.alamo.ie
@@ -10741,6 +10763,7 @@ tracking.*
 *.camwhorestv.info
 *.camworld-24.com
 *.camx4you.com
+*.can-get-so.me
 *.can-info.online
 *.canada.ca
 *.canada.com
@@ -16408,6 +16431,7 @@ tracking.*
 *.domowe-kino.pl
 *.domowy-blysk.top
 *.doms-pl.com
+*.domthing.com
 *.domusinc.com
 *.don-rite.net
 *.dona-helo.com
@@ -18372,6 +18396,7 @@ tracking.*
 *.eve-escort-prague.com
 *.eve-mae.com
 *.eve.agency
+*.evecticvocoder.life
 *.eveda-design.com
 *.evek.mx
 *.event-marketing.ro
@@ -22555,10 +22580,12 @@ tracking.*
 *.growwithsearch.com
 *.growww.rs
 *.grrrgraphics.com
+*.grtposh.com
 *.grtrmgmt.com
 *.gruasruta68.com
 *.gruebundmartsch.de
 *.grundlage.fi
+*.grunoaph.net
 *.grupa-icea.pl
 *.grupo-invictus.com
 *.grupocrater.com
@@ -23016,6 +23043,7 @@ tracking.*
 *.hats-47b.com
 *.hats.goog
 *.hatter-story.info
+*.hauchiwu.com
 *.haul-n-junk.com
 *.haus-katona.de
 *.haus-pesjak.at
@@ -24430,6 +24458,7 @@ tracking.*
 *.ibrabucks.com
 *.ibradome.com
 *.ibrandcorp.com
+*.ibrapush.com
 *.ibreathe360.com
 *.ibridge.digital
 *.ibs-uae.com
@@ -28451,6 +28480,7 @@ tracking.*
 *.kdrag0n.dev
 *.kdrs.de
 *.ke763.cfd
+*.keapgypsite.website
 *.kebyartopsman.website
 *.keebs.com
 *.keenability.com
@@ -28723,6 +28753,7 @@ tracking.*
 *.kirra.nl
 *.kishoter.xyz
 *.kiss-sextube.com
+*.kissanime.space
 *.kissingkourami.jp
 *.kissmetrics.com
 *.kissmetrics.io
@@ -30907,6 +30938,7 @@ tracking.*
 *.luckybits.online
 *.luckybrand.com
 *.luckydice.net
+*.luckyforbet.com
 *.luckyfrankstudios.com
 *.luckyfrogstudios.com
 *.luckygenerals.com
@@ -32080,6 +32112,7 @@ tracking.*
 *.mds.eu
 *.mdsdigital.com
 *.mdshock.com
+*.mdundo.com
 *.mdx500.com
 *.mdze-cu.com
 *.mdzks-store.com
@@ -32552,6 +32585,7 @@ tracking.*
 *.metoda-poliglotow.com
 *.metokur.us
 *.metomic.io
+*.metorealiukz.org
 *.metorik.com
 *.metricksystem.com
 *.metricmarketing.com
@@ -36351,6 +36385,7 @@ tracking.*
 *.onsappsail-dev.com
 *.onscreen-media.com
 *.onscroll.com
+*.onseleauks.org
 *.onseo.biz
 *.onsitesupports.com
 *.onstuimig.nl
@@ -38578,6 +38613,7 @@ tracking.*
 *.playmay88.top
 *.playmay88.vin
 *.playmedic.com
+*.playmovieevent.com
 *.playoutube.com
 *.playproject52.com
 *.playpublicidad.com
@@ -41841,6 +41877,7 @@ tracking.*
 *.restore-myaccount.com
 *.restore-pc.com
 *.restrykcje-net.com
+*.resugovex-1.co
 *.resultics.com
 *.resultrix.com
 *.resultsadpro.com
@@ -46684,6 +46721,7 @@ tracking.*
 *.sue-chan.com
 *.sueamsterdam.com
 *.suedtirol.live
+*.suefourre.uno
 *.suewag.de
 *.sufimarketing.pk
 *.sugarcurtain.com
@@ -48735,6 +48773,7 @@ tracking.*
 *.thesurvivalpodcast.com
 *.thetacdn.net
 *.thetankmedia.com
+*.thetchaixoo.com
 *.thetechtian.com
 *.thetexasseocompany.com
 *.thethao188bet.com
@@ -49911,6 +49950,7 @@ tracking.*
 *.trefoilgroup.com
 *.trehtnoas.com
 *.treidfin-pl.cyou
+*.treitrehagdin.top
 *.trekdata.com
 *.treker-money.xyz
 *.trekk.com
@@ -51809,6 +51849,7 @@ tracking.*
 *.vids4tube.com
 *.vidsrev.com
 *.vidstart.com
+*.vidstreams.net
 *.vidstudios.com
 *.vidvas1.com
 *.vidvas2.com
