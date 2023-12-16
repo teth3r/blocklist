@@ -32,7 +32,6 @@ tracking.*
 *ibrapush*
 *instagram*
 *keapgypsite*
-*kissanime*
 *kisstvshow*
 *luckyforbet*
 *mdundo*
@@ -42,7 +41,6 @@ tracking.*
 *playmovieevent*
 *pornhub*
 *resugovex*
-*resugovex-1*
 *rexporn*
 *scientology*
 *spankcdn*
@@ -5438,6 +5436,7 @@ tracking.*
 *.ass4all.com
 *.assaabloy.com
 *.assala-advertising.com
+*.assassinationrussia.com
 *.assavisual.com
 *.asseco-app.bio
 *.asseco-app.cc
@@ -8388,6 +8387,7 @@ tracking.*
 *.bioz.com
 *.bipartisanreport.com
 *.biphim18.com
+*.bipidoan.com
 *.bipolar-artist.com
 *.biptolyla.com
 *.biquini.com
@@ -11681,6 +11681,7 @@ tracking.*
 *.chainreaction-pl.website
 *.chainreaction-pl.world
 *.chainreaction-pl.xyz
+*.chairhelmet.com
 *.chairscrack.com
 *.chaitanyacorp.com
 *.chal-tec.com
@@ -14111,6 +14112,7 @@ tracking.*
 *.creedoverwork.com
 *.creema.jp
 *.creema.net
+*.creeperfutileforgot.com
 *.creivo.eu
 *.crengate.com
 *.crepesandtexas.com
@@ -14881,6 +14883,7 @@ tracking.*
 *.daltonagency.com
 *.daltondigital.es
 *.daltonmaag.com
+*.dalyai.com
 *.dalziel-pow.com
 *.dam18.me
 *.dam18.pro
@@ -16892,6 +16895,7 @@ tracking.*
 *.dwgreen.com
 *.dwin1.com
 *.dwin2.com
+*.dwish.pro
 *.dx.no
 *.dxcdn.com
 *.dxcreativ.com
@@ -17796,6 +17800,7 @@ tracking.*
 *.en25.com
 *.en2chant1ng.life
 *.en2chanti8ngsu7nset.site
+*.enaak-cdn.com
 *.enablex.ca
 *.enableyourmarketing.com
 *.enago.com
@@ -19838,6 +19843,7 @@ tracking.*
 *.followersy.pl
 *.folware.com
 *.fomo.com
+*.fomocogyyfrf.com
 *.fonciatech.net
 *.fonda.at
 *.fondamentale.co
@@ -23675,6 +23681,7 @@ tracking.*
 *.hlserve.com
 *.hmadvertising.com
 *.hmhagency.com
+*.hmjduxjccfpjcwu.com
 *.hmn.md
 *.hmrea8x6gwp4fkz.com
 *.hms-resolution.com
@@ -28759,7 +28766,6 @@ tracking.*
 *.kirra.nl
 *.kishoter.xyz
 *.kiss-sextube.com
-*.kissanime.space
 *.kissingkourami.jp
 *.kissmetrics.com
 *.kissmetrics.io
@@ -30724,6 +30730,7 @@ tracking.*
 *.loopygypsy.com
 *.loopylinks.com
 *.lootcash.vip
+*.lootexhausted.com
 *.lootlinks.xyz
 *.loox.io
 *.lopeznegrete.com
@@ -34519,6 +34526,7 @@ tracking.*
 *.nerdzoom.de
 *.nereserv.com
 *.nerest.com
+*.nereu-gdr.com
 *.neris-assets.com
 *.nerukoblog.com
 *.nervoussummer.com
@@ -37534,6 +37542,7 @@ tracking.*
 *.peer39.com
 *.peername.com
 *.peertube.ch
+*.peethach.com
 *.peg-consult.com
 *.pegacloud.net
 *.pegging4k.com
@@ -42738,6 +42747,7 @@ tracking.*
 *.rvncreative.com
 *.rvty.net
 *.rw-357.cfd
+*.rw7ljljeiyz.net
 *.rw8800.com
 *.rwads.com
 *.rwefpqpsg12.digital
@@ -46381,6 +46391,7 @@ tracking.*
 *.stonks-group.com
 *.stonly.com
 *.stoomawy.net
+*.stoorgel.com
 *.stootsou.net
 *.stop-gmo.pl
 *.stop-sign.com
@@ -46499,8 +46510,6 @@ tracking.*
 *.stream-ss.com
 *.stream.ru
 *.streamadv.com
-*.streambucket.com
-*.streambucket.net
 *.streamcompanies.com
 *.streameye.net
 *.streamify.io
@@ -48955,6 +48964,7 @@ tracking.*
 *.thirteen05.com
 *.thirteencreativeagency.com
 *.thirtmarie.website
+*.thirtyeducate.com
 *.thirtyonecreative.com
 *.this-vid.ru
 *.thisav.com
@@ -51847,6 +51857,7 @@ tracking.*
 *.videostrip.com
 *.vider-image.com
 *.vidgay.fr
+*.vidhide.com
 *.vidible.tv
 *.vidissimo.net
 *.vidmo.org
