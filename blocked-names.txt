@@ -15,6 +15,7 @@ tracking.*
 *banner*
 *bet9ja*
 *betano*
+*betking*
 *can-get-so*
 *coomer*
 *crashlytics*
@@ -48,7 +49,6 @@ tracking.*
 *thetchaixoo*
 *treitrehagdin*
 *userlocation*
-*vidstreams*
 *xnxx*
 *youtube*
 *.007angels.com
@@ -3517,6 +3517,7 @@ tracking.*
 *.ako.ai
 *.akosigns.com
 *.akroma.no
+*.aksleaj.com
 *.akstat.io
 *.aktiesport.nl
 *.aktiv-blog.com
@@ -4182,6 +4183,7 @@ tracking.*
 *.amitechlabs.com
 *.amitgaurav.com
 *.amjoltiktor.com
+*.amkbpcc.com
 *.amkz0n.com
 *.amlg.io
 *.amlimg.com
@@ -5270,6 +5272,7 @@ tracking.*
 *.arvancloud.com
 *.arvigmedia.com
 *.arvizu.com
+*.arwobaton.com
 *.as-farm.com
 *.as-web.jp
 *.as.com
@@ -21652,6 +21655,7 @@ tracking.*
 *.gnc.com
 *.gnezdo.ru
 *.gnhqzcnyg3g.digital
+*.gnicirp.com
 *.gnieszka86.pl
 *.gnj01.com
 *.gnofficial.com
@@ -46493,6 +46497,8 @@ tracking.*
 *.stream-ss.com
 *.stream.ru
 *.streamadv.com
+*.streambucket.com
+*.streambucket.net
 *.streamcompanies.com
 *.streameye.net
 *.streamify.io
@@ -51849,7 +51855,6 @@ tracking.*
 *.vids4tube.com
 *.vidsrev.com
 *.vidstart.com
-*.vidstreams.net
 *.vidstudios.com
 *.vidvas1.com
 *.vidvas2.com
