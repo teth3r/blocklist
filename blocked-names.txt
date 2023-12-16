@@ -29142,6 +29142,7 @@ tracking.*
 *.krisinformation.se
 *.kristina-j.com
 *.kristinrohrbaugh.com
+*.krisydark.com
 *.kritionlinemarketing.com
 *.krj7jt0.shop
 *.krojackaradnja-a-a.com
@@ -42458,6 +42459,7 @@ tracking.*
 *.rooter.marketing
 *.rootsrated.com
 *.ropa1handel.site
+*.ropersdavyum.com
 *.roq.ad
 *.roqoto.com
 *.roritech.com
@@ -43228,6 +43230,7 @@ tracking.*
 *.scarfsmash.com
 *.scarletlemur.com
 *.scarlettvisionmedia.com
+*.scarpeweevily.top
 *.scarymeter.com
 *.scat-extreme.org
 *.scat-porn-xxx.com
@@ -47360,6 +47363,7 @@ tracking.*
 *.taido99.net
 *.taido99.win
 *.taigame789.club
+*.taigbertha.top
 *.taigem79.net
 *.taigem79.win
 *.taigenvip88.club
@@ -50511,6 +50515,7 @@ tracking.*
 *.tvid.in
 *.tviy-dim-tvoya-zemlya.com
 *.tvmanonline.com
+*.tvmaze.com
 *.tvmeter.nl
 *.tvn-dzien-dobry.pl
 *.tvn-info.com
@@ -53661,6 +53666,7 @@ tracking.*
 *.whourgie.com
 *.whouseem.com
 *.whterion-gt.cyou
+*.whulsaux.com
 *.why-not.us
 *.whymktg.com
 *.whynot-consulting.net
