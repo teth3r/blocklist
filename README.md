@@ -46,4 +46,4 @@ Hardened config and blocklist for [dnscrypt-proxy](https://github.com/DNSCrypt/d
 
 ### Contributions
 
-You can contribute to `allowed-names.txt` and `blocked-names.txt` at anytime by opening a new issue.
+You can contribute at anytime by opening a new issue.
