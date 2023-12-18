@@ -15490,7 +15490,6 @@
 *.designworksgroup.com
 *.desimoneglobalmarketing.com
 *.desir-cam.com
-*.desjardins.com
 *.deskline.net
 *.despanpouran.com
 *.desperate-housewives.ws
