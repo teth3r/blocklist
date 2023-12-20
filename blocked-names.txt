@@ -10897,6 +10897,7 @@
 *.careerjet.org
 *.careernet.gr
 *.careers360.mobi
+*.careersadorable.com
 *.careful-market.pw
 *.carewco.net
 *.careybrownmedia.com
@@ -39922,6 +39923,7 @@
 *.profesjonalny-autohandel.pl
 *.professionalswebcheck.com
 *.professionalvp.com
+*.professtrespass.com
 *.proffi-pl.online
 *.proffi-pl.shop
 *.proffitto-it.online
@@ -41391,6 +41393,7 @@
 *.recuppago-vinted-inst-ca.info
 *.recurly.com
 *.recurpost.com
+*.recurse-scout.com
 *.recurseagin.com
 *.red-alert-media.net
 *.red-gifs.ru
@@ -50294,6 +50297,7 @@
 *.tsp2002.com
 *.tssandycateup.com
 *.tst.net
+*.tstats-13fkh44r.com
 *.tsu.ru
 *.tsusercontent.com
 *.tsvetik7tsvetik.com
