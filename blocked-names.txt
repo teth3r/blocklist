@@ -22466,7 +22466,6 @@
 *.griffinarcher.com
 *.griffinassoc.com
 *.griffinwink.com
-*.grimler.se
 *.gringo-center.ru
 *.grit-design.com
 *.gritcreative.co
@@ -47949,8 +47948,6 @@
 *.termly.io
 *.termometr-na-podczerwien-pl.com
 *.termsfeed.com
-*.termux.com
-*.termux.dev
 *.ternair.com
 *.terraboost.com
 *.terrafermamedia.com
