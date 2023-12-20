@@ -24696,10 +24696,6 @@
 *.igfuve29tb.shop
 *.igg-games.com
 *.igloo-lab.com
-*.ign.com
-*.ign.fr
-*.ignboards.com
-*.ignimgs.com
 *.ignitecampaigns.com
 *.ignitecreativegrp.com
 *.ignitehospitality.com
@@ -37440,7 +37436,6 @@
 *.pcdn.co
 *.pcexpress.ca
 *.pcfinancial.ca
-*.pcgamer.com
 *.pcgamesn.com
 *.pcguru.hu
 *.pchouseproductions.com
