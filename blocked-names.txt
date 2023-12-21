@@ -4528,7 +4528,6 @@
 *.anothercircus.com
 *.anotherfilmcompany.com
 *.anotherlens.app
-*.anpoimages.com
 *.anrdoezrs.net
 *.anrvideos.com
 *.ans7tv.net
@@ -26692,10 +26691,6 @@
 *.jigsawdpm.com
 *.jigsawllc.com
 *.jihadwatch.org
-*.jiji.com
-*.jiji.com.ng
-*.jiji.ng
-*.jijistatic.com
 *.jikoodigital.com
 *.jilvisual.com
 *.jim-li.com
@@ -31323,8 +31318,6 @@
 *.makeuhappy98.xyz
 *.makeulove81.life
 *.makeus.care
-*.makeuseof.com
-*.makeuseofimages.com
 *.makibos24.com
 *.making-earn-spend.com
 *.makkao.com
