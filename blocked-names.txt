@@ -2475,6 +2475,7 @@
 *.ads234.com
 *.ads24.net
 *.ads24h.net
+*.ads2550.bid
 *.ads280dummy2.com
 *.ads2ads.net
 *.ads2publish.com
@@ -2557,6 +2558,7 @@
 *.adsino24.com
 *.adsintelligence.marketing
 *.adsixmedia.fr
+*.adskeeper.co.uk
 *.adskeeper.com
 *.adskip.net
 *.adsklick.de
@@ -11460,6 +11462,7 @@
 *.cdn69.net
 *.cdn7.rocks
 *.cdn70.com
+*.cdn77.org
 *.cdnassetscache.com
 *.cdnativepush.com
 *.cdnaz.win
@@ -26056,6 +26059,7 @@
 *.insignia.pl
 *.insigntense-kpe.cyou
 *.insist-offers.com
+*.insistfireextinguisher.com
 *.insite.net
 *.insitesm.com
 *.insitestrategicgroup.com
@@ -31878,6 +31882,7 @@
 *.makeitgas.com
 *.makeitrainseo.com
 *.makelike.com
+*.makemeacocktail.com
 *.makemoneyonlinecom.com
 *.makemoneyupdaters.com
 *.makemyfilm.studio
@@ -36014,6 +36019,7 @@
 *.novax.org
 *.novellabrandhouse.com
 *.novelsapps.com
+*.noveltyensue.com
 *.novelus.eu
 *.novem.pl
 *.november-lax.com
@@ -47639,6 +47645,7 @@
 *.sungroupecom-merce.top
 *.sunherald.com
 *.sunierdesign.com
+*.sunkenmildredheadache.com
 *.sunmedia.tv
 *.sunny-thumbs.com
 *.sunny18onli5e.online
@@ -53041,6 +53048,7 @@
 *.visitdenmark.dk
 *.visite-vendee.com
 *.visitgate.com
+*.visitingexcruciation.com
 *.visitnorway.no
 *.visitoffice.com
 *.visitor-analytics.io
@@ -53874,6 +53882,7 @@
 *.we1winvn.com
 *.wea5lkaf63loos8a.com
 *.weadvertiseyourbusiness.com
+*.weaktongue.com
 *.wealth-2online.online
 *.wealth-48.online
 *.wealth-corporate.com
