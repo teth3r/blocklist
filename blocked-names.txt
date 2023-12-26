@@ -22494,7 +22494,6 @@
 *.googlefinance2023.bio
 *.googlefinland.com
 *.googlegroups.com
-*.googlehosted.com
 *.googlemail.com
 *.googlemaps.com
 *.googleoptimize.com
@@ -22505,7 +22504,6 @@
 *.googlesavedata.ru
 *.googlescholar.com
 *.googlesciencefair.com
-*.googlesource.com
 *.googlesverige.com
 *.googlesydication.com
 *.googlesyndication.com
@@ -22513,8 +22511,6 @@
 *.googletagservices.com
 *.googletranslate.com
 *.googletraveladservices.com
-*.googleusercontent.cn
-*.googleusercontent.com
 *.googleventures.com
 *.googlevideo.com
 *.googleweblight.com
