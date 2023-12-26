@@ -37658,6 +37658,7 @@
 *.oz37j.com
 *.ozarksfirst.com
 *.ozarksmarketinggroup.com
+*.ozdrdj.com
 *.ozestudio.com
 *.ozh1r.com
 *.ozkarahafriyat.com
@@ -40237,7 +40238,6 @@
 *.postheaven.net
 *.posthog.com
 *.posti-ix.top
-*.postimg.cc
 *.postingguru.com
 *.postingtag.com
 *.postini.com
@@ -42681,6 +42681,8 @@
 *.revasia.com
 *.revcatch.com
 *.revcontent.com
+*.revdl.com
+*.revdownload.com
 *.reveal-app.com
 *.revealconsulting.com
 *.reveil.agency
@@ -54981,7 +54983,6 @@
 *.wonderzoomedia.com
 *.wondoads.de
 *.wongdoody.com
-*.wonkychickens.org
 *.wontonsnosite.com
 *.woobox.com
 *.woodburymorse.com
@@ -55186,7 +55187,6 @@
 *.wsismartsolutions.com
 *.wsismm.com
 *.wsiwebimpact.com
-*.wsj.com
 *.wsknow.net
 *.wsod.com
 *.wsoversea.com
