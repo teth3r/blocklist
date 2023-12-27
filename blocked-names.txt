@@ -47648,7 +47648,6 @@
 *.elsegunpowder.com
 *.elsekeyseat.com
 *.elseone.nl
-*.elsevier-ae.com
 *.elsewherebuckle.com
 *.elshowdejohnnywelch.com
 *.elsoberano.mx
@@ -124978,8 +124977,6 @@
 *.tenniskit.xyz
 *.tennpublicrelations.com
 *.tennubifaces.com
-*.tenor.co
-*.tenor.com
 *.tensagesic.com
 *.tense-print.pro
 *.tensebrayers.digital
