@@ -57669,7 +57669,6 @@
 *.giovatto.com
 *.giovis.my
 *.gipeucn.icu
-*.giphy.com
 *.gipitech.in
 *.gipostart-1.co
 *.gippedimaums.website
@@ -113664,6 +113663,7 @@
 *.sendaygobresib.com
 *.sendaygobresib.net
 *.sendaygobresib.org
+*.sendbird.com
 *.sendcloud.sc
 *.senddostawa247.shop
 *.sendefobresib.co
