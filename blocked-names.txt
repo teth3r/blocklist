@@ -37640,7 +37640,6 @@
 *.crackedsidewalks.com
 *.cracklehostileswept.com
 *.crackoxherd.top
-*.crackshash.com
 *.cracksteams.name
 *.crackthatwork.com
 *.cracktraumatic.com
@@ -41266,7 +41265,6 @@
 *.demarre-ici.com
 *.demaskmarketing.com
 *.demclick.xyz
-*.demdex.net
 *.demeanourgrade.com
 *.demeepsi.xyz
 *.dementeddug.com
@@ -54710,7 +54708,6 @@
 *.freehostplace.com
 *.freehqporntube.com
 *.freehyperspace5.com
-*.freeimagecdn.net
 *.freeindianporn2.com
 *.freeintradaytips.com
 *.freeiphone.info
@@ -66454,7 +66451,6 @@
 *.igentics.com
 *.igetis-global.com
 *.igfuve29tb.shop
-*.igg-games.com
 *.igg.biz
 *.ighelpsite.com
 *.ightdecipientconc.info
@@ -66565,7 +66561,6 @@
 *.iiiii.info
 *.iiiiii.me
 *.iiji.in
-*.iili.io
 *.iimaginestudio.com
 *.iinfo.cz
 *.iinoclt.in
@@ -66948,7 +66943,6 @@
 *.img24.org
 *.imgatt.com
 *.imgblue.com
-*.imgbox.com
 *.imgcomplete.com
 *.imgdn.net
 *.imge.com
@@ -85994,7 +85988,6 @@
 *.mmsmail.com
 *.mmsrg.com
 *.mmst.eu
-*.mmstat.com
 *.mmte-ir.com
 *.mmtnat.com
 *.mmtro.com
@@ -94105,7 +94098,6 @@
 *.omshedinjaor.com
 *.omshellderom.com
 *.omt.media
-*.omtrdc.net
 *.omvcilk.com
 *.omvenusaurchan.com
 *.omvpetrom55.com
@@ -94294,7 +94286,6 @@
 *.onegoropsintold.com
 *.onegreystreet.com
 *.onegrowth.ca
-*.onehack.us
 *.onehatdesign.com
 *.oneherocreative.com
 *.onehiranandanipark.net
@@ -131633,8 +131624,6 @@
 *.typefaces.pizza
 *.typeform.com
 *.typeg.com
-*.typekit.com
-*.typekit.net
 *.typenetwork.com
 *.typepad.com
 *.typerealisepredict.com
