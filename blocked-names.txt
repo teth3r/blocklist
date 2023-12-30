@@ -51347,6 +51347,7 @@
 *.fastclick.com
 *.fastclick.net
 *.fastcmp.com
+*.fastcomments.com
 *.fastcounter.de
 *.fastdating.app
 *.fastdistrict.com
@@ -72049,6 +72050,7 @@
 *.joudotee.com
 *.joueb.com
 *.joukaglie.com
+*.joukidles.life
 *.joukingincuss.website
 *.jouncystelar.guru
 *.joupteni.xyz
@@ -89038,6 +89040,7 @@
 *.nanawow.com
 *.nancontrast.com
 *.nandanproject.com
+*.nandasmile.org
 *.nandinisen.com
 *.nandinzouaves.uno
 *.nandmproducts.com
@@ -128273,6 +128276,7 @@
 *.todomobile.com
 *.todonext.org
 *.todonexts.org
+*.todonowext.com
 *.todopromocional.com
 *.todorganico23.com
 *.todxagency.com
@@ -140709,6 +140713,7 @@
 *.worldviralnewz.com
 *.worldweaver.com
 *.worldwebworks.cz
+*.worldwhoisq.org
 *.worldwide-cash.net
 *.worldwidedigitalads.com
 *.worldwidedrivers.net
