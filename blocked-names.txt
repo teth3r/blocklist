@@ -40193,7 +40193,6 @@
 *.datadoghq-browser-agent.com
 *.datadoghq.com
 *.datadoghq.eu
-*.datadome.co
 *.datadrivengroup.com
 *.datadrivenplc.info
 *.datadsk.com
@@ -117845,7 +117844,6 @@
 *.sncf-connect.com
 *.snd.tc
 *.sndbdudbdbjdidjdndifjdjsks.com
-*.sndcdn.com
 *.sndcoe.ac.in
 *.sndkorea.co.kr
 *.sne.jp
