@@ -10002,7 +10002,6 @@
 *.accuweather.com
 *.acdcdn.com
 *.acdcmarimo.com
-*.acdn.adnxs.com
 *.acdn.no
 *.acdn01.vidox.net
 *.acdn12354732.com
@@ -65842,7 +65841,6 @@
 *.ib-ofnight.xyz
 *.ib-ofpo.xyz
 *.ib-ofraf.xyz
-*.ib.adnxs.com
 *.ib3.uk
 *.ib3y.com
 *.ib7cb3y9k.com
