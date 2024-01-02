@@ -52299,7 +52299,6 @@
 *.fileave.com
 *.filed-offers.com
 *.filedm.com
-*.fileformat.info
 *.filegames.studio
 *.filegrab.xyz
 *.filemates.com
