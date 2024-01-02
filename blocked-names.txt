@@ -2169,7 +2169,6 @@
 *.10-c.com
 *.10-forty.com
 *.10-y-o.com
-*.10.199.212.2
 *.100-besdeps.club
 *.100-bezdep.club
 *.100-bezdeps.club
@@ -4875,7 +4874,6 @@
 *.184c4i95p.de
 *.184glanmireroad.com
 *.184mov.com
-*.185.193.38.148
 *.185003.com
 *.1852.yt
 *.18554080.com
@@ -6289,7 +6287,6 @@
 *.29mst.tel
 *.2a.media
 *.2a080b1045.a3b8be1b5b.com
-*.2a21783584.2408987111.com
 *.2a2k3aom6.de
 *.2a4snhmtm.de
 *.2a710318ec.com
@@ -6639,7 +6636,6 @@
 *.33gfhgjhh.site
 *.33producers.com
 *.33rdderryscouts.com
-*.34.215.155.61
 *.340milehigh.com
 *.341073be6e9db7d2.com
 *.3410e63196.8d3e6ea132.com
@@ -6659,8 +6655,6 @@
 *.34einfo.site
 *.34north.net
 *.34pavouhj7.com
-*.35.194.26.233
-*.35.239.57.233
 *.350.com
 *.351.at
 *.3510.info
@@ -6721,6 +6715,7 @@
 *.3632.wf
 *.3648839.com
 *.3650.yt
+*.3651172187.com
 *.3654qq.com
 *.365ads.net
 *.365anfang.net
@@ -7150,7 +7145,6 @@
 *.43bb528775.com
 *.43sjmq3hg.com
 *.43t53c9e.de
-*.44.228.85.26
 *.4400media.com
 *.441133c.com
 *.441649.com
@@ -7175,7 +7169,6 @@
 *.44ffd27303.com
 *.44gamers.com
 *.44interactive.com
-*.45.32.105.134
 *.451.io
 *.452tapgn.de
 *.456797.xyz
@@ -8144,13 +8137,11 @@
 *.76709876806.click
 *.7676f1cc6c.com
 *.769292.com
-*.769372a0a8.4073284684.com
 *.76a7doiet256.com
 *.76df5972d5.479457698a.com
 *.76ky.app
 *.76osa.com
 *.76press.com
-*.77.162.125.199
 *.770544.com
 *.7710458.ru
 *.7713.wf
@@ -29449,7 +29440,6 @@
 *.c24.tech
 *.c24c966867.com
 *.c258.info
-*.c298470437.2036369798.com
 *.c2a-marketing.com
 *.c2cmedia.tv
 *.c2connections.com
@@ -36561,6 +36551,7 @@
 *.content-garden.com
 *.content-hci.com
 *.content-hcs.com
+*.content-loader.com
 *.content-rec.com
 *.content-recommendation.net
 *.content-score.com
@@ -39588,7 +39579,6 @@
 *.d9bet38.com
 *.d9bet68.com
 *.d9bet88.com
-*.d9fc39dbc3.3651172187.com
 *.d9ixu.xyz
 *.d9kvn70l4ogn.com
 *.da-ads.com
@@ -61382,6 +61372,7 @@
 *.hagnaudsate.com
 *.hagnutrient.com
 *.hagridestupose.space
+*.hagweedtoytown.com
 *.hahade.com
 *.hahnpwdmgqwugq.com
 *.hahscalusar.guru
@@ -69365,9 +69356,6 @@
 *.iphtml.com
 *.iphumiki.com
 *.ipify.org
-*.ipinfo.info
-*.ipinfo.io
-*.ipinfodb.com
 *.ipingiam.com
 *.ipinyou.com.cn
 *.ipio.io
@@ -101111,6 +101099,7 @@
 *.polar.me
 *.polarbearyulia.com
 *.polarbyte.com
+*.polarbyte.net
 *.polarcdn-engine.com
 *.polarcdn-pentos.com
 *.polarcdn-terrax.com
@@ -120337,10 +120326,6 @@
 *.static-spm.com
 *.static-srv.com
 *.static-thomann.de
-*.static.120.69.76.144.clients.your-server.de
-*.static.185.88.90.157.clients.your-server.de
-*.static.203.133.181.135.clients.your-server.de
-*.static.247.16.181.135.clients.your-server.de
 *.static.cz01.cn
 *.statically.io
 *.staticdash.net
@@ -143138,6 +143123,7 @@
 *.yakkamorello.digital
 *.yakmakutopia.com
 *.yakmonster.net
+*.yaksgame.com
 *.yaksofcoalbankcreek.com
 *.yala.scot
 *.yalabs.ma
@@ -145930,6 +145916,7 @@
 *treitrehagdin*
 *userlocation*
 *xnxx*
+*yaksgame*
 *youtube*
 ads.*
 ads[0-9]*
@@ -145938,6 +145925,7 @@ anti-adblock.*
 beacon.*
 collector.*
 counter.*
+csp-reporting.*
 geoip.*
 log.*
 metric.*
