@@ -11544,7 +11544,7 @@
 *.ads-pixiv.net
 *.ads-plus.com
 *.ads-rolandgarros.com
-*.ads-static.conde.digital
+*.ads-static.*
 *.ads-stats.com
 *.ads-stream.com
 *.ads-t.ru
@@ -21157,6 +21157,7 @@
 *.backtracks.fm
 *.backupcelebritygrave.com
 *.backupguards.com
+*.backuprabbit.com
 *.backuptribute.com
 *.backwardkneesencroach.com
 *.backwget99.com
@@ -25056,6 +25057,7 @@
 *.bizspring.net
 *.bizupmedia.com
 *.bizx.info
+*.bizzabo.com
 *.bizzclick.com
 *.bizzledesigns.com
 *.bj-gov-cn.website
@@ -34645,6 +34647,7 @@
 *.cloudservice.app
 *.cloudshrinker.com
 *.cloudsofnews.com
+*.cloudsponcer.com
 *.cloudsponge.com
 *.cloudsrvtrk.com
 *.cloudstorysolution.com
