@@ -134357,9 +134357,7 @@
 *.verbolia.com
 *.verbstattva.digital
 *.vercel-analytics.com
-*.vercel-dns.com
 *.vercel-insights.com
-*.vercel.com
 *.verdantanswer.com
 *.verdantzeal.com
 *.verdictdisingenuousfruitless.com
