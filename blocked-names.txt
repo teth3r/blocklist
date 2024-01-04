@@ -14774,7 +14774,6 @@
 *.aloveste.site
 *.alovirs.com
 *.alowea.website
-*.alpaca.ai
 *.alpacaempover.digital
 *.alpaga.agency
 *.alpangorochan.com
@@ -116708,8 +116707,6 @@
 *.slash-offers.com
 *.slashcity.org
 *.slashcynical.com
-*.slashdot.com
-*.slashdotmedia.com
 *.slashmedia.ca
 *.slashstar.net
 *.slaski-wegiel.su
@@ -119643,7 +119640,6 @@
 *.stabam.com
 *.stabcool.tech
 *.stabilecordy.com
-*.stability.ai
 *.stabilityincarnateillegally.com
 *.stabilityvatinventory.com
 *.stable3.io
@@ -134555,7 +134551,6 @@
 *.vets.buzz
 *.vetsjourney.org
 *.vette-porno.nl
-*.vetted.ai
 *.vettedcryptocoins.com
 *.vettedcryptocurrency.com
 *.vettesisters.org
