@@ -143801,7 +143801,6 @@
 *.ythjhk.com
 *.ytihp.com
 *.ytimewornan.org
-*.ytimg.com
 *.ytimm.com
 *.ytljaubc.com
 *.ytmhrjnffdrrt.com
@@ -143809,8 +143808,6 @@
 *.ytndjaefvan.xyz
 *.ytostaracaree.work
 *.ytqnzvqfsr.com
-*.yts.am
-*.yts.mx
 *.ytsa.net
 *.ytsubme.com
 *.yttompthree.com
