@@ -20561,7 +20561,6 @@
 *.awstats.cloud
 *.awstrack.me
 *.awsurveys.com
-*.awswaf.com
 *.awswayful.space
 *.awtcher.guru
 *.awtpguxqtf.com
@@ -34603,11 +34602,6 @@
 *.cloudgatemedia.com
 *.cloudgetlink.com
 *.cloudiiv.com
-*.cloudimagesa.com
-*.cloudimagesb.com
-*.cloudimg.io
-*.cloudinary.com
-*.cloudinary.net
 *.cloudioo.net
 *.cloudiq.com
 *.cloudlare-dns.com
@@ -54844,8 +54838,6 @@
 *.freshu.nl
 *.freshwater-uk.com
 *.freshwholesalehub.in
-*.freshworks.com
-*.freshworksapi.com
 *.fresnobee.com
 *.fresnobench.com
 *.fresnowebmasters.com
@@ -96278,7 +96270,6 @@
 *.pad.mymovies.it
 *.padaloto-bg.com
 *.padawac-corr.xyz
-*.paddle.com
 *.paddleangle.com
 *.paddleniecehandicraft.com
 *.paddlesoothesoloist.com
@@ -119382,13 +119373,11 @@
 *.sqoo.co
 *.sqqqytzxjywx.com
 *.sqrt-5041.de
-*.sqspcdn.com
 *.sqtomato.com
 *.sqtr1v.com
 *.squad.co
 *.squadapp.im
 *.squalidscrew.com
-*.square-enix.com
 *.square-planet.com
 *.square7.ch
 *.squareblogs.net
@@ -120933,8 +120922,6 @@
 *.stripclubwien.com
 *.stripdepot.co
 *.stripdepot.net
-*.stripe.com
-*.stripe.network
 *.stripecommunications.com
 *.stripedbat.com
 *.stripedburst.com
@@ -124702,7 +124689,6 @@
 *.terminusbedsexchanged.com
 *.terminussurfacespurr.com
 *.termitelaw.us
-*.termly.io
 *.termometr-na-podczerwien-pl.com
 *.termsfeed.com
 *.termslimemonks.com
@@ -138340,7 +138326,6 @@
 *.wegiel-pgg.net
 *.wegiel48.pl
 *.wegleelr.com
-*.weglot.com
 *.wego.com
 *.wegoodsttr.com
 *.wegotmedia.com
