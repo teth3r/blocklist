@@ -31482,7 +31482,6 @@
 *.cdnhwc1.com
 *.cdnhwc8.cn
 *.cdnimpuls.com
-*.cdninstagram.com
 *.cdnjav.com
 *.cdnjs.com
 *.cdnjs.stream
@@ -57345,8 +57344,6 @@
 *.ggongcash.com
 *.ggongcream.com
 *.ggoogle.com
-*.ggpht.cn
-*.ggpht.com
 *.ggrawwbi.xyz
 *.ggsbjzyo.com
 *.ggsfq.com
@@ -68169,8 +68166,6 @@
 *.instaforex.com
 *.instagr.am
 *.instagr.com
-*.instagram.co
-*.instagram.com
 *.instagramunblocked.com
 *.instalacioncargadorcochejerez.com
 *.install-check.com
@@ -126971,8 +126966,6 @@
 *.thrdscreative.com
 *.threadlikeauth.ru
 *.threadloom.com
-*.threads.com
-*.threads.net
 *.threat-analytics.com
 *.threatdetect.org
 *.threatenedorientalavailable.com
@@ -131089,7 +131082,6 @@
 *.twithdifyferukentas.info
 *.twitr.tech
 *.twittad.com
-*.twitter.com
 *.twitterclinic.co.uk
 *.twitterclinic.com
 *.twittersea.net
@@ -141164,7 +141156,6 @@
 *.x-xx.pro
 *.x-xxxvideos.com
 *.x-zine.de
-*.x.com
 *.x.company
 *.x.gp
 *.x.team
@@ -145486,7 +145477,6 @@
 *hauchiwu*
 *hentai*
 *ibrapush*
-*instagram*
 *keapgypsite*
 *kisstvshow*
 *luckyforbet*
