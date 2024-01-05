@@ -35872,7 +35872,6 @@
 *.brominer.com
 *.brominewf.guru
 *.bromisescapose.com
-*.bromite.org
 *.bromoilnapalms.com
 *.bromusic.site
 *.bromzanloversscul.cf
@@ -72008,7 +72007,6 @@
 *.freenews3.ct8.pl
 *.freenews4.ct8.pl
 *.freenews5.ct8.pl
-*.freenode.net
 *.freeobituariesforlife.com
 *.freeoda.com
 *.freeonlinegamestore.com
