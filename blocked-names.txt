@@ -42698,9 +42698,6 @@
 *.chrolal.com
 *.chroma.ae
 *.chromacars.com
-*.chrome.com
-*.chromebook.com
-*.chromecast.com
 *.chromeexperiments.com
 *.chromeextension.ddnss.eu
 *.chromeleads.com
@@ -53250,6 +53247,7 @@
 *.demarre-ici.com
 *.demaskmarketing.com
 *.demclick.xyz
+*.demdex.net
 *.demeanourgrade.com
 *.demeepsi.xyz
 *.dementeddug.com
@@ -76840,7 +76838,6 @@
 *.gmai.com
 *.gmail-poczta.pl
 *.gmail.489746.com
-*.gmail.com
 *.gmailapp8.space
 *.gmailncoy1.ebtrk2.com
 *.gmarketing.co
@@ -80027,6 +80024,7 @@
 *.gurdit.com
 *.gurdystaun.top
 *.gurgaonpropertywala.in
+*.gurgle.*
 *.gurgledgymnure.space
 *.gurimix.com
 *.gurios.store
@@ -98507,7 +98505,6 @@
 *.keyfittings.co.uk
 *.keyg.tech
 *.keyhardware.us
-*.keyhole.com
 *.keyholefloating.com
 *.keyimaginarycomprise.com
 *.keylessbipedal.com
@@ -104028,7 +104025,6 @@
 *.like-show.biz
 *.like-show.space
 *.like-video.com
-*.like.com
 *.like.digital
 *.like.pro-invst.store
 *.like.video
@@ -107844,7 +107840,6 @@
 *.madesout.com
 *.madetoengage.com
 *.madeupadoption.com
-*.madewithcode.com
 *.madewithfuel.com
 *.madewithgrit.com
 *.madewithmaturity.com
@@ -166865,7 +166860,6 @@
 *.techstartsolutions.com
 *.techstatic.uk
 *.techsv.in
-*.techtarget.com
 *.techteamleader.com
 *.techteslservice.online
 *.techtisfy.com
@@ -194367,7 +194361,6 @@
 *.zdarzenia24.pl
 *.zdarzeniadrogowe.click
 *.zdarzeniawiedza.click
-*.zdbb.net
 *.zdecyduj-samemu.eu
 *.zdecyduj-wybieraj.eu
 *.zdecyduj-wygranego.eu
@@ -194873,9 +194866,7 @@
 *.zielonewariacje.pl
 *.ziet.io
 *.zieussolutions.com
-*.ziffdavis.com
 *.ziffdavisb2b.com
-*.ziffstatic.com
 *.zig.design
 *.zigansherpa.com
 *.ziggedplonk.life
@@ -195926,3 +195917,4 @@ tag.*
 track.*
 tracker.*
 tracking.*
+trk.*
