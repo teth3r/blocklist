@@ -38807,6 +38807,7 @@
 *.canvas-offers.com
 *.canvasfield.site
 *.canvassblanketjar.com
+*.canvastrackersimulator.org
 *.canwe.id
 *.canwix.com
 *.canxingtvhx.com
@@ -56497,6 +56498,7 @@
 *.do-global.com
 *.do-it-better.site
 *.do-kitchens.com
+*.do-not-track.org
 *.do-rb.cloud
 *.do-rf.cloud
 *.do.1n1tiat3.xyz
@@ -58768,7 +58770,6 @@
 *.duchyofxeilias.com
 *.duckbet168.com
 *.duckcart.com
-*.duckdns.org
 *.duckfatventures.com
 *.duckiecaesura.com
 *.duckle.sbs
@@ -65052,6 +65053,7 @@
 *.evilregion.com
 *.evils.in
 *.evilshortcut.com
+*.eviltrack.net
 *.evinex.com
 *.evisitanalyst.com
 *.evitinghabnab.guru
@@ -67617,8 +67619,6 @@
 *.fbbusinesssupportkelly.xyz
 *.fbc5969532.com
 *.fbcbronston.com
-*.fbcdn.net
-*.fbcdn2.com
 *.fbcolor.blogspot.com
 *.fbcom.pages.net.br
 *.fbconversions.com
@@ -69553,6 +69553,7 @@
 *.firstontario.zip
 *.firstontariocreditunion.mov
 *.firstontariocreditunion.zip
+*.firstpartysimulate.net
 *.firstpathyhomeopathy.com
 *.firstpornlist.com
 *.firstpost.com
@@ -99982,7 +99983,6 @@
 *.koneri.org
 *.koneshgaran.net
 *.konferencje-eventy.eu
-*.konga.com
 *.kongabsa.xyz
 *.kongamedia.com
 *.kongmarketing.com
@@ -105519,6 +105519,7 @@
 *.localsnaughty.com
 *.localspantle.com
 *.localsplash.com
+*.localstoragetrackersimulator.org
 *.localsurgemedia.com
 *.localtap.net
 *.localweb.ro
@@ -172937,6 +172938,7 @@
 *.tracker5000.com
 *.trackerads.com
 *.trackercdn.com
+*.trackersimulate.org
 *.trackertest.org
 *.trackerx.ru
 *.trackeverything.co
@@ -195890,12 +195892,18 @@ ads[0-9].*
 affiliate.*
 allegrolokalnie.*
 anti-adblock.*
+article-fb-unshelfen[0-9]*
 banner.*
 banners.*
 beacon.*
+chainreaction-pl.*
+checkmaildetail[0-9]*
+click.*
 collector.*
 counter.*
 csp-reporting.*
+cyberfolks-pl-*
+dpanel-pl-*
 events.*
 geo.*
 geoip.*
@@ -195914,5 +195922,6 @@ stats.*
 tag.*
 track.*
 tracker.*
+trackersimulator.*
 tracking.*
 trk.*
