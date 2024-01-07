@@ -60125,7 +60125,6 @@
 *.eazyleads.com
 *.eazylighttherapy.com
 *.eazzap.com
-*.eb.com
 *.eb1a6329bb.com
 *.eb2a.com
 *.eb3a94f7c8.fa479896c7.com
@@ -186322,6 +186321,7 @@
 *.webstatistik-bw.de
 *.webstatistika.lv
 *.webstats.com
+*.webstats.eb.com
 *.webstats.one
 *.webstats4u.com
 *.websterdesign.net
@@ -195925,3 +195925,5 @@ tracker.*
 trackersimulator.*
 tracking.*
 trk.*
+webstat.*
+webstats.*
