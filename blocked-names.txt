@@ -56602,7 +56602,6 @@
 *.dock9.com
 *.dockaround.com
 *.dockdigestion.com
-*.docker.com
 *.docksalmon.com
 *.dockvilla.com
 *.dockwhip.com
