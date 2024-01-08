@@ -9963,6 +9963,7 @@
 *.7idea.com
 *.7imtcjd21.com
 *.7insight.com
+*.7iplaoner.com
 *.7jahw.com
 *.7jghavshda71.monster
 *.7jhsbdjfsdf77.monster
@@ -15287,7 +15288,6 @@
 *.aejbeowoei.site
 *.aejqhdgffsjkkld.site
 *.aejslgc.com
-*.aelitis.com
 *.aellagazella.xyz
 *.aeman.nl
 *.aemarielle.com
@@ -40411,9 +40411,6 @@
 *.cdn7.rocks
 *.cdn70.com
 *.cdn77-secure.org
-*.cdn77.com
-*.cdn77.net
-*.cdn77.org
 *.cdnads.com
 *.cdnanalytics.xyz
 *.cdnapi.net
@@ -129566,7 +129563,6 @@
 *.panbao.net
 *.pancakeangel.com
 *.pancakeswap.com
-*.pancakeswap.finance
 *.pancakeswap.info
 *.panchabhoota.store
 *.panchakarmaequipment.com
